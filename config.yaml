@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 # Update to your own settings for URL/title
-baseURL: https://platen-template.netlify.app/
+baseURL: https://fantasypunk.netlify.app/
 title: Platen Example
 # Google Analytics: uncomment and replace with your own code if you want to use this
 # googleAnalytics: G-123ABC456D
