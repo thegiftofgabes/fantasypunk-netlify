@@ -1,9 +1,9 @@
 ---
 weight: 1
-title: "fantasypunk Quickstart"
+title: "Overview"
 ---
 
-# 01 - Playing the Game
+# 01 - Getting Started
 
 This is a short summary of how to start playing **fantasypunk**.
 
