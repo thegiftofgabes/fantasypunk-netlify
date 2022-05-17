@@ -1,6 +1,6 @@
 ---
 weight: 7
-title: "Picaroons"
+title: "Burdens"
 ---
 
 # Burdens
