@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "fantasypunk - Preparations"
+title: "fantasypunk Quickstart"
 ---
 
 # 01 - Playing the Game
