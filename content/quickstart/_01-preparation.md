@@ -1,4 +1,13 @@
-# It's dangerous out there: take these
+---
+weight: 1
+title: "fantasypunk - Preparations"
+---
+
+# 01 - Playing the Game
+
+This is a short summary of how to start playing **fantasypunk**.
+
+## It's dangerous out there: take these
 
 - a player to be the Giramundo, or GM, a kind of host and guide for the game;
 - a group of 3 to 5 players to be the Party Companions, or PCs. You can stray from that range, but I can't promise it will work as well;
@@ -8,10 +17,6 @@
 - about 3 or 4 hours to play together: have breaks when necessary;
 - a safe, welcoming, comfortable environment to play, phisically or online;
 - an agreement on safty tools, tone and and expectations for each session you play.
-
-# Playing the Game
-
-This is a short summary of how to start playing **fantasypunk**.
 
 ## Prepare
 
