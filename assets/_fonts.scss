@@ -17,4 +17,7 @@ body {
   .markdown strong {
     font-weight: 700;
   }
+  @media (prefers-color-scheme: light) {
+    font-weight: lighter;
+  }
 }
