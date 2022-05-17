@@ -1,17 +1,14 @@
 ---
-title: My Very Good Games
+title: fantasypunk
 type: docs
 ---
 
-This is a place with some very good games I made. It uses hugo and markdown to turn some plaintext drafts into a website.
+**fantasypunk** is a game of incredible and fallible characters, the way they approach the world around them, and the baggage they carry.
 
-You can install this website as an app, it's a fully functional PWA!
+Together we will weave tales of wanderers, travelers, the found and the lost, the seekers and the runaways, the people they meet, the friends they make along the way, and the communities they are part of or drop from.
 
-You can checkout two different versions of Picaroons, either via the menu or these links:
+If you want to play a hypercapitalist murder-pillage power fantasy, this is not the game for you; please refer to that racist dragon game of colonization owned by white billionaires.
 
-1. [Picaroons as a multi-page project](/games/picaroons)
-2. [Picaroons as a single-page project](/games/picaroons-sp)
+If you choose to be a bigot, a racist, a fascist, a nazi, make yourself a favour and crawl back into the slimy pit your crawled out from and stay away from anything I make.
 
-You can also checkout the blog via the menu or [this link](/posts).
-
-While not currently implemented, you can include multiple language versions of your site and switch between them via the menu.
+After all, the real monsters are those who choose to be monsters.
