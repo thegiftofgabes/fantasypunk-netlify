@@ -1,0 +1,20 @@
+// Import Fonts
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quando&display=swap');
+// Set Titles to Quando and Body to Atkinson
+
+body {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Quando", serif;
+  }
+  .markdown strong {
+    font-weight: 700;
+  }
+}
