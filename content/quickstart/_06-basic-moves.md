@@ -112,7 +112,7 @@ If you decide you want to avoid it, you can **Push Back**.
 
 When you want to **push back** against an undesired outcome, tell the party and the GM what part of the tale you want to change.
 
-Discuss with the others how it should happen, then **give up** an item from your Baggage.
+Discuss with the others how it should happen, then **give up** a Burden.
 
 # Trust Moves
 

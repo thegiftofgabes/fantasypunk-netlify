@@ -32,10 +32,10 @@ These are the most relevant moves:
 
 ## The Dice Pool
 
-When a move asks you to roll the dice, it's prompting you to pool together all the dice provided by your Traits, Baggage, situational modifiers, and so on, roll them all, then keep the highest two results, adding them together.
+When a move asks you to roll the dice, it's prompting you to pool together all the dice provided by your Traits, Burdens, situational modifiers, and so on, roll them all, then keep the highest two results, adding them together.
 
 - Start with 1d6 from a Trait ( ), 2d6 from a Striving Trait (+) and no dice from a Struggling Trait (-);
-- You get +1d6 from Relying on your Baggage;
+- You get +1d6 from Relying on your Burdens;
 - You get +1d6 from a +1 Forward or a +1 Ongoing. Having both won't stack;
 - You get +1d6 when you **Start Uneven** (See basic moves).
 

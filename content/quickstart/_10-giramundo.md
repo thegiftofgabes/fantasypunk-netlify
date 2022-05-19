@@ -38,7 +38,9 @@ These few simple principles will help you tell enjoyable and compelling stories 
 
 ## GM Moves
 
-- Make Their Baggage Heavier;
+When a PC rolls a miss, or you come across a golden opportunity, or there's a lull in the narrative, make one or more of these moves, as dramatically as you feel appropriate.
+
+- Make Their Burdens Heavier;
 - Give Them a Choice;
 - Plant a Seed;
 - Take Something Away;
