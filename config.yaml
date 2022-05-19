@@ -55,8 +55,8 @@ params:
   description: A TTRPG of incredible and fallible characters, the way they approach the world around them, and the burdens they carry.
 
   # Use this for the social media preview functionality
-   images:
-     - /assets/social-media-cover.png
+  # images:
+  #   - /assets/social-media-cover.png
 
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
@@ -78,11 +78,12 @@ params:
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection: "quickstart"
+  BookSection: quickstart
 
   # Set source repository location. Set this to YOUR repository!
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/platenio/book-template
+  # BookRepo: https://github.com/platenio/book-template
+  BookRepo: https://github.com/thegiftofgabes/fantasypunk
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
