@@ -56,7 +56,7 @@ params:
 
   # Use this for the social media preview functionality
   images: 
-    - /images/social-media-cover.png
+   - /images/social-media-cover.png
 
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
