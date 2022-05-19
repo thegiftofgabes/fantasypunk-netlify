@@ -25,8 +25,19 @@ But until then, let's look at what burdens those complex, troubled, wondrous, an
 
 Together we will weave tales of wanderers, travellers, the found and the lost, the seekers and the runaways, the people they meet, the friends they make along the way, and the communities they are part of or drop from.
 
-If you want to play a hypercapitalist murder-pillage power fantasy, this is not the game for you; please refer to that racist dragon game of colonization owned by white billionaires.
+To play fantasypunk you'll need:
 
-If you choose to be a bigot, a racist, a fascist, a nazi, make yourself a favour and crawl back into the slimy pit your crawled out from.
+- a player to be the Giramundo, or GM, a kind of host and guide for the game;
+- a group of 3 to 5 players to be the Party Companions: the PCs. You can stray from that - - range, but I can’t promise it will work as well;
+- at least one six-sided die (d6), although at 5 or 6 of them is better;
+- writing materials, analog or digital, whatever;
+- and the basic rules for this game as a reference;
+- about 3 or 4 hours to play together: have breaks when necessary;
+- a safe, welcoming, comfortable environment to play, physically or online;
+- an agreement on safety tools, tone, and expectations for each session you play.
 
-After all, the real, true monsters are those who choose to be monsters.
+If you are looking for a hypercapitalist murder-pillage power fantasy game, this is not it; please refer to that racist dragon game of colonization owned by white billionaires.
+
+If you choose to be a bigot, a racist, a fascist, a nazi, make yourself a favour and crawl back into the slimy pit you crawled out from, and stay away from anything I make.
+
+After all, the real monsters are those who choose to be monsters.
