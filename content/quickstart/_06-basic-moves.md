@@ -34,9 +34,9 @@ Keys:
 - endure, resist, seize, divert;
 - encourage, embolden, empower.
 
-On a Fine Hit, ask the other PCs and the GM how you can stand against wrong or harm, to yourself or to others.
+On a Solid Hit, ask the other PCs and the GM how you can stand against wrong or harm, to yourself or to others.
 
-On an Ordinary Hit, **embrace a shortcoming**.
+On an Messy Hit, **embrace a shortcoming**.
 
 On a miss, **brace yourself**.
 
@@ -49,9 +49,9 @@ Keys:
 - meddle, probe, test;
 - contact, request, engage.
 
-On a Fine Hit, ask the other PCs and the GM about something you wish to know more about.
+On a Solid Hit, ask the other PCs and the GM about something you wish to know more about.
 
-On an Ordinary Hit, **embrace a shortcoming**.
+On an Messy Hit, **embrace a shortcoming**.
 
 On a miss, **brace yourself**.
 
@@ -64,9 +64,9 @@ Keys:
 - disarm, dissuade, divert;
 - prepare, plan, position.
 
-On a Fine Hit, ask the other PCs and the GM about the world around you to find your way forward.
+On a Solid Hit, ask the other PCs and the GM about the world around you to find your way forward.
 
-On an Ordinary Hit, **embrace a shortcoming**.
+On an Messy Hit, **embrace a shortcoming**.
 
 On a miss, **brace yourself**.
 
@@ -79,9 +79,9 @@ Keys:
 - sense, probe, trust, appease;
 - attune, empower, inspire.
 
-On a Fine Hit,  open your senses to the wondrous and otherworldly, then ask the other PCs and the GM what you find.
+On a Solid Hit,  open your senses to the wondrous and otherworldly, then ask the other PCs and the GM what you find.
 
-On an Ordinary Hit, **embrace a shortcoming**.
+On an Messy Hit, **embrace a shortcoming**.
 
 On a miss, **brace yourself**.
 
