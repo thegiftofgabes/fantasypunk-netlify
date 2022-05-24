@@ -1,9 +1,9 @@
 ---
 weight: 3
-title: "Scenarios and Settings"
+title: "Threads"
 ---
 
-# 2 - Scenarios and Settings
+# 3 - Threads - Scenarios and Settings
 
 Settings and scenarios are the background of the tale you are all sharing.
 
