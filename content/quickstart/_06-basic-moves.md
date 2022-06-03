@@ -1,9 +1,9 @@
 ---
 weight: 6
-title: "Basic Moves"
+title: "Common Moves"
 ---
 
-# 6 - Basic Moves
+# 6 - Common Moves
 
 # Approaches
 
@@ -55,9 +55,9 @@ On an Messy Hit, **embrace a shortcoming**.
 
 On a miss, **brace yourself**.
 
-## Be Careful
+## Be Cautious
 
-When you are **careful**, choose 1 key to set your intentions and describe how you hope to achieve them through words or deeds. Roll the dice as established.
+When you are **cautious**, choose 1 key to set your intentions and describe how you hope to achieve them through words or deeds. Roll the dice as established.
 
 Keys:
 - respect, watch, learn;
