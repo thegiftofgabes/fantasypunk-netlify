@@ -92,7 +92,7 @@ On a messy hit, **brace yourself.**
 
 ## Infiltrator
 
-When you are Cautious, you can try to climb or squeeze into a hard-to-reach place.
+When you are **cautious**, you can try to climb or squeeze into a hard-to-reach place.
 
 On a solid hit, you reach it without much trouble.
 

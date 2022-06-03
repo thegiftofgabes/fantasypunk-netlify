@@ -25,8 +25,8 @@ You can also make some moves just because you want to stir the pot, or just beca
 
 These are the most relevant moves:
 
-- Approach Moves: These moves are based on your traits, Kind, Brave, Curious, Careful and Insightful. Set your intentions, roll the dice and describe what you do;
-- Special Moves: Special moves usually require that you be Kind, Brave, Curious, Careful or Insightful. In short, make an Approach Move:
+- Approach Moves: These moves are based on your traits, Kind, Brave, Curious, Cautious and Insightful. Set your intentions, roll the dice and describe what you do;
+- Special Moves: Special moves usually require that you be Kind, Brave, Curious, Cautious or Insightful. In short, make an Approach Move:
 
 > Make an Approach Move > Roll the dice > On a solid hit, resolve the Approach move > Resolve the Special Move
 
