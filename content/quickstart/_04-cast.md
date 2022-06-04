@@ -1,9 +1,9 @@
 ---
 weight: 4
-title: "The Cast"
+title: "the cast"
 ---
 
-# 4 - The Cast
+# 4 - the cast: player characters
 
 The Party Companions in **fantasypunk** are magical and mundane at the same time.
 

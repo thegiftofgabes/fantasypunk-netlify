@@ -1,31 +1,33 @@
 ---
 weight: 9
-title: "Special Moves"
+title: "odd moves"
 ---
 
-# Special Moves
+# odd moves: special abilities and skills
 
-## Song of Silence
+When you create your character, choose 2 Odd Moves.
 
-When you are **Kind**, you may look at what is really going on below, and create space for someone to air their burdens and help tend them.
+## song of silence
 
-On a solid hit, **lighten their Burdens**;
+With a **kind** approach, you may look at what is going on below to create space for someone to air their burdens and help tend them.
 
-On a messy hit, ask out loud, “Is there a way to heal or ease ___?“
+On a solid hit, **make one of their burdens lighter**;
+
+On a messy hit, ask out loud, "Is there a way to heal or ease ___?" Take +1 Forward if you act on the answer.
 
 On a miss, **brace yourself**.
 
-## Well of Wisdom
+## well of wisdom
 
-When you are **Kind**, you may look into your seemingly endless well of anecdotes in an attempt to reach someone’s heart with a story.
+With a **kind** approach, you may look into your seemingly endless well of anecdotes in an attempt to reach someone’s heart with a story.
 
 On a solid hit, take +1 forward when interacting with them, or give them +1 forward.
 
 On a miss, **brace yourself**.
 
-## Confront
+## confront
 
-When you are **Brave**, **confront** someone with words or deeds.
+With a **brave** approach, you may **confront** someone with words or deeds.
 
 On any hit, they must drop everything and deal with you.
 
@@ -39,23 +41,20 @@ On a critical hit, choose 2. On a solid hit, choose 1.
 
 On a miss, **brace yourself**.
 
-## Against the Odds
+## defy a predicament
 
-When you’re backed in a corner, be Brave. On a sound hit, choose 1 and ask the GM or the other PCs to answer:
+With a **brave** approach, you may defy your predicament. On a sound hit, choose 1. The GM or another PC will answer the question.
 
-- You have an unexpected ally. Ask who it is.
-- You have a desperate opportunity. Ask what it is.
-- You have a sudden realization. Ask or tell the others what it is.
-- You find reserves of speed, strength, or endurance. Tell the others what you can do.
-- You have a piece of amazing luck. Ask or tell the others what it is.
-
-On a messy hit, the GM or another PC chooses 1 for you. 
+- You find or meet an unexpected or unwitting ally. Who?
+- You create or find a desperate opportunity. How?
+- You draw from a reseve of surprising inner stregth: Why?
+- You have a piece of amazing luck. How?
 
 On a miss, you are good and cornered. **Brace yourself**.
 
-## I Know a Guy
+## i know a guy
 
-When you are Curious, you can name an old contact who could help you, and seek them out.
+With a **curious** approach, you can name an old contact who could help you, and seek them out.
 
 On a solid hit, they can help, though you might need to make it worth their while.
 
@@ -68,9 +67,9 @@ On a messy hit, pick 1:
 
 On a miss, **brace yourself**. 
 
-## Scrutinize
+## scrutinize
 
-When you are Curious you can try to scrutinize your surroundings.
+With a **curious** approach, you can try to scrutinize your surroundings.
 
 On a critical hit, pick 2. On a solid hit, pick 1:
 
@@ -80,9 +79,9 @@ On a critical hit, pick 2. On a solid hit, pick 1:
 
 On a miss, **brace yourself**.
 
-## Birdwatcher
+## birdwatcher
 
-When you are **cautious,** you can hide in plain sight to gather information.
+With a **cautious** approach, you can hide in plain sight to gather information.
 
 On a critical hit, tell the others what information you have learned, then discuss how it will best fit the scene. Take +1 forward to act on this information.
 
@@ -90,17 +89,17 @@ On a solid hit, you learn something relevant or interesting to you. The GM or an
 
 On a messy hit, **brace yourself.**
 
-## Infiltrator
+## infiltrator
 
-When you are **cautious**, you can try to climb or squeeze into a hard-to-reach place.
+With a **cautious** approach, you can try to climb or squeeze into a hard-to-reach place.
 
 On a solid hit, you reach it without much trouble.
 
 On a miss, **brace yourself**.
 
-## Ritual Spellcasting
+## ritual spellcasting
 
-When you are **insightful**, you can cast a spell you know by performing a magical ritual.
+With a **insightful** approach, you can cast a spell you know by performing a magical ritual.
 
 On a solid hit pick 1 option that takes effect as you cast your spell:
 
@@ -111,9 +110,9 @@ On a solid hit pick 1 option that takes effect as you cast your spell:
 On a miss, **brace yourself**.
 
 
-## Weave and Loom
+## weave and loom
 
-When you are **insightful**, you can attempt to undo or avert ruin or harm.
+With a **insightful** approach, you can attempt to undo or avert ruin or harm.
 
 On a solid hit, pick 1:
 
