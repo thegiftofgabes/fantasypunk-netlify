@@ -8,7 +8,7 @@ All characters have access to these moves at any time.
 
 # approach  moves
 
-More important than what tools, powers or skills you have, your Traits represent how you approach the world around you.
+Your Traits represent how you approach the world around you.
 
 There is no right or wrong choice of Traits to approach a situation; each Trait prompts certain questions or possibilities, fundamentally asking you, "what is your intention, and how do you act on it?", and then everyone finds out what happens.
 
@@ -16,7 +16,10 @@ When you need to make an Approach Move, discuss with the party and the GM which 
 
 - I have enought practice or experience at this I don't need to think about it;
 - I have time and freedom to do it leisurely;
-- I am empowered or supplied by the knowledge or  tools necessary.
+- I am empowered or supplied by the knowledge or tools necessary.
+
+> Does the 1st question bond with any specific mechanical spot?
+> Does the 3rd question ask about Burdens?
 
 If all statements are true, you should be able to do what you set out to without a roll.
 
@@ -34,9 +37,11 @@ When you are **kind**, choose the one Key that best reflects your intention:
 - relate, inspire, support;
 - sway, disarm, placate.
 
-Describe how you pursue your intention through your words or deeds, then roll the dice.
+Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
 
-- Solid Hit: ask the other PCs and the GM what their character, a place or another entity needs the most.
+On any hit, the outcome you hoped for comes to pass, then:
+
+- Solid Hit: ask the other PCs and the GM what their character, a place, or another entity needs the most.
 - Messy Hit: **embrace a shortcoming**.
 - Miss: **brace yourself**.
 
