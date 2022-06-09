@@ -1,15 +1,17 @@
 ---
 weight: 10
-title: "Giramundo"
+title: "giramundo"
 ---
 
-# The Giramundo
+# the giramundo: the guide and mediator
 
-As the GM, you are a kind of host, facilitator, and counterpoint to the other Players. Your main job is to help provoke dramatic situations for the PCs and be able to introduce others to the rules. 
+As the Giramundo, or GM, you are a kind of host, facilitator, and counterpoint to the other Players.
 
-It’s okay to learn as you go, too. The core of the game is mostly in the basic and special moves.
+Your main job is to help provoke dramatic situations for the PCs and be able to introduce others to the rules. 
 
-## Agenda
+It’s okay to learn as you go, too. The core of the game is mostly in the Common and Remarkable Moves.
+
+## agenda
 
 The agenda is a set of guidelines you should try to accomplish as a GM.
 
@@ -17,14 +19,14 @@ The agenda is a set of guidelines you should try to accomplish as a GM.
 - Sprinkle the wondrous in the mundane, and vice-versa;
 - Make the world full of colourful and diverse people.
 
-## Always say
+## always say
 
 - What the principles demand (as follow);
 - What the rules demand;
 - What your prep demands;
 - What honesty demands.
 
-## Principles
+## principles
 
 These few simple principles will help you tell enjoyable and compelling stories with the other players.
 
@@ -36,7 +38,7 @@ These few simple principles will help you tell enjoyable and compelling stories 
 - Leave Blank Spaces;
 - Be a Fan of the Players AND the Characters.
 
-## GM Moves
+## gm moves
 
 When a PC rolls a miss, or you come across a golden opportunity, or there's a lull in the narrative, make one or more of these moves, as dramatically as you feel appropriate.
 

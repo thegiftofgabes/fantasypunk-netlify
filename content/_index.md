@@ -41,3 +41,7 @@ If you are looking for a hypercapitalist murder-pillage power fantasy game, this
 If you choose to be a bigot, a racist, a fascist, a nazi, make yourself a favour and crawl back into the slimy pit you crawled out from, and stay away from anything I make.
 
 After all, the real monsters are those who choose to be monsters.
+
+You can get **fantasypunk** on [itch.io](https://thegiftofdice.itch.io/fantasypunk).
+
+<iframe frameborder="0" src="https://itch.io/embed/1163249?linkback=true&amp;dark=true" width="552" height="167"><a href="https://thegiftofdice.itch.io/fantasypunk">fantasypunk - ashcan by TheGiftOfGabes</a></iframe>

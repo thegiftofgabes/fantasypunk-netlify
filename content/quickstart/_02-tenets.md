@@ -1,9 +1,13 @@
 ---
 weight: 2
-title: "Pillars of Play"
+title: "tenets"
 ---
 
-# 1 - The Pillars of Play
+# 1 - tenets: collaborative common ground
+
+The tenets of **fantasypunk** in Pillars, Agenda and Principles.
+
+## pillars
 
 When you play **fantasypunk**, these things are always true:
 
@@ -15,7 +19,7 @@ When you play **fantasypunk**, these things are always true:
 - No individuals, communities or cultures are single-minded, unilateral or exclusive;
 - The real monsters are those who stand against happiness, love and the freedom of being, usually by choice or complacency.
 
-## Agenda
+## agenda
 
 The agenda is a set of overarching goals intended to guide you in play.
 
@@ -24,7 +28,7 @@ The agenda is a set of overarching goals intended to guide you in play.
 - Disrupt the status quo;
 - Play to **Find Out What Happens**.
 
-## Principles
+## principles
 
 These principles will help you put everyone in the same page.
 

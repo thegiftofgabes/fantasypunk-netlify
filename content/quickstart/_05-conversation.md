@@ -1,9 +1,9 @@
 ---
 weight: 5
-title: "Roleplaying, Moves and Dice"
+title: "the conversation"
 ---
 
-# 5 - Roleplaying, Moves and Dice
+# 5 - the conversation: roleplaying, moves and dice
 
 **fantasypunk** is played as a kind of conversation where everyone is adding something to the tale to take it into fun and interesting directions.
 
@@ -17,7 +17,7 @@ Sometimes the PCs choose to do something bold, take a risk, raise the stakes, fa
 
 That's when Moves come into play, usually asking the dice what direction the tale should go.
 
-## Making Moves
+## making moves
 
 All you have to do to make a move is read the move and follow its instructions, asking and answering any questions, and interpreting open ended promps.
 
@@ -30,7 +30,7 @@ These are the most relevant moves:
 
 > Make an Approach Move > Roll the dice > On a solid hit, resolve the Approach move > Resolve the Special Move
 
-## The Dice Pool
+## the dice pool
 
 When a move asks you to roll the dice, it's prompting you to pool together all the dice provided by your Traits, Burdens, situational modifiers, and so on, roll them all, then keep the highest two results, adding them together.
 
@@ -43,7 +43,7 @@ If you don't get enough dice to roll at least 2d6 when you make a move, you shou
 
 On the other hand, you can't have a pool bigger than 5d6. Just ignore any dice above that.
 
-## Hits and Misses
+## hits and misses
 
 See the results and outcomes from rolling a 2d6 dice roll. When in doubt, use the third column to help you interpret the result of a move. 
 
@@ -55,7 +55,7 @@ Result | Outcome | Meaning
  7-9 | Messy hit | Yes, but
  1-6 | Miss | Brace Yourself
 
-## The Burden Die
+## the burden die
 
 When you roll a Burden Die, keep track of its result, regardless of whether you add it to the final roll or not.
 
