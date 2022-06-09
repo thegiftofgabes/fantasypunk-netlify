@@ -41,8 +41,8 @@ Describe how you pursue your intention through your words or deeds, discuss what
 
 On any hit, the outcome you hoped for comes to pass, then:
 
-- Solid Hit: ask the other PCs and the GM what their character, a place, or another entity needs the most.
-- Messy Hit: **embrace a shortcoming**.
+- Solid Hit: ask the other PCs and the GM what their character, a place, or another entity needs the most;
+- Messy Hit: **embrace a shortcoming**;
 - Miss: **brace yourself**.
 
 ## be brave
@@ -53,7 +53,9 @@ When you are **brave**, choose the one Key that best reflects your intention:
 - endure, divert, protect;
 - encourage, embolden, empower.
 
-Describe how you pursue your intention through your words or deeds, then roll the dice.
+Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
+
+On any hit, the outcome you hoped for comes to pass, then:
 
 - Solid Hit: ask the other PCs and the GM how you can stand against wrong or harm, to yourself or to others;
 - Messy Hit: **embrace a shortcoming**;
@@ -67,7 +69,9 @@ When you are **curious**, choose the one Key that best reflects your intention:
 - meddle, probe, test;
 - contact, request, engage.
 
-Describe how you pursue your intention through your words or deeds, then roll the dice.
+Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
+
+On any hit, the outcome you hoped for comes to pass, then:
 
 - Solid Hit: ask the other PCs and the GM about something you wish to know more about;
 - Messy Hit: **embrace a shortcoming**;
@@ -81,7 +85,9 @@ When you are **cautious**, choose the one Key that best reflects your intention:
 - disarm, dissuade, divert;
 - plan, maneuver, position.
 
-Describe how you pursue your intention through your words or deeds, then roll the dice.
+Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
+
+On any hit, the outcome you hoped for comes to pass, then:
 
 - Solid Hit: ask the other PCs and the GM about the world around you to find your way forward;
 - Messy Hit: **embrace a shortcoming**;
@@ -95,7 +101,9 @@ When you are **insightful**, choose the one Key that best reflects your intentio
 - sense, probe, trust;
 - guide, channel, yield.
 
-Describe how you pursue your intention through your words or deeds, then roll the dice.
+Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
+
+On any hit, the outcome you hoped for comes to pass, then:
 
 - Solid Hit: ask the other PCs and the GM what you find out as you open your senses to the wondrous and otherworldly;
 - Messy Hit: **embrace a shortcoming**;
