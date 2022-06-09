@@ -30,7 +30,7 @@ If none of these statements are true, discuss with the group whether you should 
 
 When you are **kind**, choose the one Key that best reflects your intention:
 
-- heal, treat, aid;
+- ease, aid, soothe;
 - relate, inspire, support;
 - sway, disarm, placate.
 
@@ -44,8 +44,8 @@ Describe how you pursue your intention through your words or deeds, then roll th
 
 When you are **brave**, choose the one Key that best reflects your intention:
 
-- protect, confront, oppose;
-- endure, resist, seize, divert;
+- confront, oppose, intercept;
+- endure, divert, protect;
 - encourage, embolden, empower.
 
 Describe how you pursue your intention through your words or deeds, then roll the dice.
@@ -72,9 +72,9 @@ Describe how you pursue your intention through your words or deeds, then roll th
 
 When you are **cautious**, choose the one Key that best reflects your intention:
 
-- respect, watch, learn;
+- observe, identify, heed;
 - disarm, dissuade, divert;
-- prepare, plan, position.
+- plan, maneuver, position.
 
 Describe how you pursue your intention through your words or deeds, then roll the dice.
 
@@ -87,8 +87,8 @@ Describe how you pursue your intention through your words or deeds, then roll th
 When you are **insightful**, choose the one Key that best reflects your intention:
 
 - wonder, portend, imagine;
-- sense, probe, trust, appease;
-- attune, empower, inspire.
+- sense, probe, trust;
+- guide, channel, yield.
 
 Describe how you pursue your intention through your words or deeds, then roll the dice.
 
@@ -137,10 +137,10 @@ When you offer help to a party member and they accept, add +1d6 to their dice po
 
 When you get in the way of a party member, you can give them a choice. Ask them whether they fail because of you.
 
-- If they say yes, **load up**;
-- If they say no, they **load up**.
+- If they say yes, **heighten a Burden**;
+- If they say no, they **heighten a Burden**.
 
-If you give them no choice, **take a Burden**.
+If you give them no choice, make one of your Burdens **too heavy to bear**.
 
 # player moves
 
