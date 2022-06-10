@@ -5,11 +5,11 @@ title: "remarkable moves"
 
 # remarkable moves: special abilities and skills
 
-When you create your character, choose 2 Remarkable Moves.
+Everyone starts with 2 Remarkable Moves.
 
 ## song of silence
 
-When you take a **kind** approach to **ease, aid, or soothe** someone, you may create space for them to air their burdens.
+When you take a **kind** approach to **ease, aid, or soothe** someone, you may create space for them to air their troubles.
 
 On a solid hit, **alleviate their burden**;
 
@@ -44,13 +44,13 @@ On a miss, **brace yourself**.
 
 ## defy your predicament
 
-When you take a **brave** approach to _confront_, oppose, or intercept your predicament, you may find an out for yourself someone else who is cornered or trapped.
+When you take a **brave** approach to _confront_, oppose, or intercept your predicament, you may find an out for yourself or someone else who is cornered or trapped.
 
 On any hit, choose 1. The GM or another PC will answer the question.
 
 - You find or meet an unexpected or unwitting ally. Who?
 - You create or find a desperate opportunity. How?
-- You draw from a reseve of surprising inner stregth: Why?
+- You draw from a reseve of surprising inner strength: Why?
 - You have a piece of amazing luck. How?
 
 On a miss, you are good and cornered. **Brace yourself**.
