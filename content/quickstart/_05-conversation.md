@@ -9,9 +9,9 @@ title: "the conversation"
 
 What makes it different from any other conversation is the unique boundaries provided by the pillars, the setting, the principles, and the agenda.
 
-Many times, the GM will propose a situation, offer details or escalate the drama, prompting the PCs to act or react to it.
+Often time, the GM will propose a situation, offer details or escalate the drama, prompting the PCs to act or react to it.
 
-The GM will respond in kind and so on and so forth.
+The GM will respond to the players choices in kind and so on and so forth.
 
 Sometimes the PCs choose to do something bold, take a risk, raise the stakes, face opposition... or most likely just do something cool to see what happens.
 
@@ -25,23 +25,25 @@ You can also make some moves just because you want to stir the pot, or just beca
 
 These are the most relevant moves:
 
-- Approach Moves: These moves are based on your traits, Kind, Brave, Curious, Careful and Insightful. Set your intentions, roll the dice and describe what you do;
-- Special Moves: Special moves usually require that you be Kind, Brave, Curious, Careful or Insightful. In short, make an Approach Move:
+- **Party Care Moves** are a set of actions that ask the players to step away from the tale for a moment to take care of each other. Talk about them before you start playing.
+
+- **Give it a Try** is the most basic move and will cover the majority of rolls the Player Characters make. Answer the promps, choose a Trait and roll to find out what happens.
+
+- **Remarkable Moves** allow you to do something, or Give it a Try, under special conditions and with unique outcomes. They expand your options and possibilities and make characters even more unique.
 
 > Make an Approach Move > Roll the dice > On a solid hit, resolve the Approach move > Resolve the Special Move
 
 ## the dice pool
 
-When a move asks you to roll the dice, it's prompting you to pool together all the dice provided by your Traits, Burdens, situational modifiers, and so on, roll them all, then keep the highest two results, adding them together.
+Most times when you roll the dice, pool together each die provided by your Traits, Burdens, situational modifiers, and so on, roll them all, then keep the highest two results, adding them together.
 
 - Start with 1d6 from a Trait ( ), 2d6 from a Striving Trait (+) and no dice from a Struggling Trait (-);
 - You get +1d6 from Relying on your Burdens;
 - You get +1d6 from a +1 Forward or a +1 Ongoing. Having both won't stack;
-- You get +1d6 when you **Start Uneven** (See basic moves).
+- You get +1d6 when you **Start Uneven** (See basic moves);
+- Other things may give you more dice.
 
-If you don't get enough dice to roll at least 2d6 when you make a move, you should just consider it a miss.
-
-On the other hand, you can't have a pool bigger than 5d6. Just ignore any dice above that.
+If you don't get enough dice to roll at least 2d6 when you make a move, you should just consider it a miss, or maybe reconsider your approach.
 
 ### hits and misses
 
@@ -60,4 +62,4 @@ Not all moves have a specific effect for a Critical Hit. In those cases, interpr
 
 When you roll a Burden Die, keep track of its result, regardless of whether you add it to the final roll or not.
 
-> Tip: use a die of a different colour or size, or always count the first die you roll in the pool as the Burden Die if one is being rolled.
+> Tip: always count the die that falls further away from you, or use a die of a different colour or size, or always count the first die you roll in the pool as the Burden Die.

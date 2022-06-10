@@ -6,7 +6,7 @@ title: "common moves"
 
 All characters have access to these moves at any time.
 
-# approach  moves
+# approach moves
 
 Your Traits represent how you approach the world around you.
 
@@ -28,6 +28,30 @@ If two statements are true, take +1d6 forward.
 If one statement is true, make your move and roll the dice as usual.
 
 If none of these statements are true, discuss with the group whether you should be able to make that move at all. It might be possible, but much harder or with diminished returns.
+
+## give it a try
+
+
+
+when you give things a try, choose a **trait** and the one **key** that best reflect your intention, then discuss with the party and the GM which of these statements you believe are true:
+
+> - I have a Unique Trait that is especially relevant now;
+> - I have the time and freedom to go about it without pressure;
+> - I carry knowledge or tools that are especially relevant now, in the form of Burdens or otherwise.
+
+- All statements are true: you should be able to do what you set out to without a roll.
+
+- Two statements are true: take +1d6 forward and roll the dice.
+
+- One statement is true: make your move and roll the dice as usual.
+
+
+
+
+
+Interpret the outcome of the roll and describe what happens on your attempt whenyou try it. If you lose a  stat point, describe how what happened caused your character to become weaker. If you rolled a 6, describe how they became stronger, more skilful or more alert as a result.
+
+If your stat reaches zero, your character has lost (the will to carry on with the story, or indeed, they are dead, if you're playing that sort of game and challenge). If your character dies or quits the quest, you can play on by using tokens to perform the other actions.
 
 ## be kind
 
