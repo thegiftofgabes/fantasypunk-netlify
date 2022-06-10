@@ -102,3 +102,5 @@ Everyone else is free to respond but in a supportive way. If you don’t agree w
 ## Conclusion
 
 You may find these and safety tools more in this [List of Safety Tools](https://gabrielcaetano.itch.io/safety-tools-and-wellbeing-a-curated-list). Feel free to adapt these to your group and your game needs.
+
+<iframe src="https://itch.io/embed/1087799" width="552" height="167" frameborder="0"><a href="https://thegiftofdice.itch.io/safety-tools-and-wellbeing-a-curated-list">Safety Tools and Wellbeing - A Curated List by TheGiftOfGabes</a></iframe>
