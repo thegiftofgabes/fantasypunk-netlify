@@ -8,7 +8,7 @@ All characters have access to these moves at any time.
 
 # approach  moves
 
-More important than what tools, powers or skills you have, your Traits represent how you approach the world around you.
+Your Traits represent how you approach the world around you.
 
 There is no right or wrong choice of Traits to approach a situation; each Trait prompts certain questions or possibilities, fundamentally asking you, "what is your intention, and how do you act on it?", and then everyone finds out what happens.
 
@@ -16,7 +16,10 @@ When you need to make an Approach Move, discuss with the party and the GM which 
 
 - I have enought practice or experience at this I don't need to think about it;
 - I have time and freedom to do it leisurely;
-- I am empowered or supplied by the knowledge or  tools necessary.
+- I am empowered or supplied by the knowledge or tools necessary.
+
+> Does the 1st question bond with any specific mechanical spot?
+> Does the 3rd question ask about Burdens?
 
 If all statements are true, you should be able to do what you set out to without a roll.
 
@@ -30,25 +33,29 @@ If none of these statements are true, discuss with the group whether you should 
 
 When you are **kind**, choose the one Key that best reflects your intention:
 
-- heal, treat, aid;
+- ease, aid, soothe;
 - relate, inspire, support;
 - sway, disarm, placate.
 
-Describe how you pursue your intention through your words or deeds, then roll the dice.
+Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
 
-- Solid Hit: ask the other PCs and the GM what their character, a place or another entity needs the most.
-- Messy Hit: **embrace a shortcoming**.
+On any hit, the outcome you hoped for comes to pass, then:
+
+- Solid Hit: ask the other PCs and the GM what their character, a place, or another entity needs the most;
+- Messy Hit: **embrace a shortcoming**;
 - Miss: **brace yourself**.
 
 ## be brave
 
 When you are **brave**, choose the one Key that best reflects your intention:
 
-- protect, confront, oppose;
-- endure, resist, seize, divert;
+- confront, oppose, intercept;
+- endure, divert, protect;
 - encourage, embolden, empower.
 
-Describe how you pursue your intention through your words or deeds, then roll the dice.
+Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
+
+On any hit, the outcome you hoped for comes to pass, then:
 
 - Solid Hit: ask the other PCs and the GM how you can stand against wrong or harm, to yourself or to others;
 - Messy Hit: **embrace a shortcoming**;
@@ -62,7 +69,9 @@ When you are **curious**, choose the one Key that best reflects your intention:
 - meddle, probe, test;
 - contact, request, engage.
 
-Describe how you pursue your intention through your words or deeds, then roll the dice.
+Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
+
+On any hit, the outcome you hoped for comes to pass, then:
 
 - Solid Hit: ask the other PCs and the GM about something you wish to know more about;
 - Messy Hit: **embrace a shortcoming**;
@@ -72,11 +81,13 @@ Describe how you pursue your intention through your words or deeds, then roll th
 
 When you are **cautious**, choose the one Key that best reflects your intention:
 
-- respect, watch, learn;
+- observe, identify, heed;
 - disarm, dissuade, divert;
-- prepare, plan, position.
+- plan, maneuver, position.
 
-Describe how you pursue your intention through your words or deeds, then roll the dice.
+Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
+
+On any hit, the outcome you hoped for comes to pass, then:
 
 - Solid Hit: ask the other PCs and the GM about the world around you to find your way forward;
 - Messy Hit: **embrace a shortcoming**;
@@ -87,10 +98,12 @@ Describe how you pursue your intention through your words or deeds, then roll th
 When you are **insightful**, choose the one Key that best reflects your intention:
 
 - wonder, portend, imagine;
-- sense, probe, trust, appease;
-- attune, empower, inspire.
+- sense, probe, trust;
+- guide, channel, yield.
 
-Describe how you pursue your intention through your words or deeds, then roll the dice.
+Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
+
+On any hit, the outcome you hoped for comes to pass, then:
 
 - Solid Hit: ask the other PCs and the GM what you find out as you open your senses to the wondrous and otherworldly;
 - Messy Hit: **embrace a shortcoming**;
@@ -106,7 +119,7 @@ When you **embrace a shortcoming**, choose one of the options below, or roll 1d6
 
 When you **start uneven**, choose a Shortcoming before you roll and add 1d6 to the Dice Pool.
 
-1. you make a **mistake**, wether you realize it now or later;
+1. you make a **mistake**, whether you realize it now or later;
 2. you create a **commotion** or attract unwanted attention;
 3. you raise **suspicion** or give reason for someone's trust to be shaken;
 4. you create a **misunderstanding** or make others doubt your intentions and motives;
@@ -137,43 +150,45 @@ When you offer help to a party member and they accept, add +1d6 to their dice po
 
 When you get in the way of a party member, you can give them a choice. Ask them whether they fail because of you.
 
-- If they say yes, **load up**;
-- If they say no, they **load up**.
+- If they say yes, **heighten a Burden**;
+- If they say no, they **heighten a Burden**.
 
-If you give them no choice, **take a Burden**.
+If you give them no choice, make one of your Burdens **too heavy to bear**.
 
-# player moves
+# party care moves
 
-## zoom out
+These moves codify a set of safety tools into the game procedures.
 
-When any Player decides to **zoom out**, stop the game immediately to provide listening and support.
+## take a step back
 
-When you need a moment to react to what's happening in the game, tell the other Players you are **zooming out**.
+When any Player decides to **take a step back**, stop the game immediately to provide listening and support.
 
-Inform the rest of the tanle of your need and engage any tools you need to accommodate them.
+When you need a moment to react to what's happening in the game, tell the other Players you are **taking a step back**.
+
+Inform the rest of the table of your need and engage any tools you need to accommodate them.
 
 ## “do we want to?”
 
-When you’re not sure everyone is on board with the chosen course of action you chose, **zoom out** and ask: **"Do we want to?"** to express that you’d like everyone to buy in.
+When you’re not sure everyone is on board with the chosen course of action you chose, **take a step back** and ask: **"Do we want to?"** to express that you’d like everyone to buy in.
 
 ## “Where to next?”
 
-If you feel the adventure came to a standstill or that you are stuck, **zoom out** and ask “Where to next?” to discuss what to do to move the adventure forward.
+If you feel the adventure came to a standstill or that you are stuck, **take a step back** and ask “Where to next?” to discuss what to do to move the adventure forward.
 
 ## “What do you think?”
 
-Sometimes we need a bit of extra time to think, focus or express ourselves. If someone seems quieter or seems to be speaking less, **zoom out** and ask “What do you think?” to check how they are feeling.
+Sometimes we need a bit of extra time to think, focus or express ourselves. If someone seems quieter or seems to be speaking less, **take a step back** and ask “What do you think?” to check how they are feeling.
 
 ## “hold on.”
 
-When you need a break for some water and self-care, or because something happened that is making someone uncomfortable, or because you want to look back at something from earlier, **zoom out** and say “Hold on.”
+When you need a break for some water and self-care, or because something happened that is making someone uncomfortable, or because you want to look back at something from earlier, **take a step back** and say “Hold on.”
 
 ## “no.”
 
-You shouldn’t do something you don’t want to. If you feel you need to change something to fit your needs or to have agency over your character or the world around you, say “No", then **zoom out**.
+You shouldn’t do something you don’t want to. If you feel you need to change something to fit your needs or to have agency over your character or the world around you, say “No", then **take a step back**.
 
 ## step away
 
 The base assumption is that the game is being productive and that issues and problems can be navigated safely through conversation. If that’s not the case you can leave at any moment.
 
-When any player chooses to step away, **zoom out** to talk about it.
+When any player chooses to step away, **take a step back** to talk about it.

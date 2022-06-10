@@ -13,13 +13,13 @@ When you **invoke a Burden**, describe how you use it or rely on it, then add a 
 
 **Roll over:** When you roll over its Weight, your Burden weighs down on you a little as you lean on it. **Make it heavier**.
 
-**Roll under:** When you roll under its Weight, **it becomes too heavy to bear**.
+**Roll under:** When you roll under its Weight, it becomes **too heavy to bear**.
 
-## make it heavier or lighter
+## heighten or alleviate a burden
 
-When you **make a Burden heavier**, increase its Weight by 1.
+When you **heighten a Burden**, increase its Weight by 1.
 
-When you **make a Burden lighter**, decrease its Weight by 1.
+When you **alleviate a Burden**, decrease its Weight by 1.
 
 ## crack under your burdens
 
@@ -44,3 +44,8 @@ When you **hold on**, mark 1 Weight as permanent on a Burden. Choose one:
 
 When every Burden you carry is gone amd you **find release**, choose a Change:
 
+alleviate
+
+give in
+
+burdens "too heavy" are tagged cracked

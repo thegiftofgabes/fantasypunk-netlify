@@ -43,17 +43,18 @@ If you don't get enough dice to roll at least 2d6 when you make a move, you shou
 
 On the other hand, you can't have a pool bigger than 5d6. Just ignore any dice above that.
 
-## hits and misses
+### hits and misses
 
-See the results and outcomes from rolling a 2d6 dice roll. When in doubt, use the third column to help you interpret the result of a move. 
+See the results and outcomes from rolling a 2d6 dice roll. When in doubt, use the third column to help you interpret the result of a move.
 
+Result | Outcome      | Meaning
+-------|--------------|---------------
+12     | Critical hit | Yes, and
+10-11  | Solid hit    | Yes
+7-9    | Messy hit    | Yes, but
+1-6    | Miss         | Brace Yourself
 
-Result | Outcome | Meaning
----------|----------|---------
- 12    | Critical hit | Yes, and
- 10-11 | Solid hit | Yes
- 7-9 | Messy hit | Yes, but
- 1-6 | Miss | Brace Yourself
+Not all moves have a specific effect for a Critical Hit. In those cases, interpret it as a Solid Hit.
 
 ## the burden die
 
