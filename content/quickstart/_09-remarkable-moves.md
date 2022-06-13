@@ -15,8 +15,6 @@ On a solid hit, **alleviate their burden**;
 
 On a messy hit, ask out loud, "Is there a way to heal or ease ___?" Take +1 Forward if you act on the answer.
 
-On a miss, **brace yourself**.
-
 ## well of wisdom
 
 When you take a **kind** approach to **relate, inspire, or support** someone, you may attempt to reach their heart with a story or anecdote.

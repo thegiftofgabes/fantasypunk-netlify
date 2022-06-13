@@ -6,132 +6,26 @@ title: "common moves"
 
 All characters have access to these moves at any time.
 
-# approach moves
-
-Your Traits represent how you approach the world around you.
-
-There is no right or wrong choice of Traits to approach a situation; each Trait prompts certain questions or possibilities, fundamentally asking you, "what is your intention, and how do you act on it?", and then everyone finds out what happens.
-
-When you need to make an Approach Move, discuss with the party and the GM which of these statements you believe are true.
-
-- I have enought practice or experience at this I don't need to think about it;
-- I have time and freedom to do it leisurely;
-- I am empowered or supplied by the knowledge or tools necessary.
-
-> Does the 1st question bond with any specific mechanical spot?
-> Does the 3rd question ask about Burdens?
-
-If all statements are true, you should be able to do what you set out to without a roll.
-
-If two statements are true, take +1d6 forward.
-
-If one statement is true, make your move and roll the dice as usual.
-
-If none of these statements are true, discuss with the group whether you should be able to make that move at all. It might be possible, but much harder or with diminished returns.
-
 ## give it a try
 
-
-
-when you give things a try, choose a **trait** and the one **key** that best reflect your intention, then discuss with the party and the GM which of these statements you believe are true:
+When you give things a try or take a chance, determine with the Party and the GM which of these statements you believe are true:
 
 > - I have a Unique Trait that is especially relevant now;
 > - I have the time and freedom to go about it without pressure;
 > - I carry knowledge or tools that are especially relevant now, in the form of Burdens or otherwise.
 
-- All statements are true: you should be able to do what you set out to without a roll.
+If all statements are true you should be able to do what you set out to without a roll.
 
-- Two statements are true: take +1d6 forward and roll the dice.
+Otherwise, choose an Approach and describe what you hope will happen.
 
-- One statement is true: make your move and roll the dice as usual.
+- When two statements are true, take +1d6, and roll the dice.
+- When one statement is true, roll the dice as usual.
 
+On a **critical hit**, the outcome you hoped for comes to pass *and* you may choose one: **take +1 forward or avoid a shortcoming**.
 
+On a **messy hit**, the outcome you hoped for comes to pass, *but* take a **shortcoming**.
 
-
-
-Interpret the outcome of the roll and describe what happens on your attempt whenyou try it. If you lose a  stat point, describe how what happened caused your character to become weaker. If you rolled a 6, describe how they became stronger, more skilful or more alert as a result.
-
-If your stat reaches zero, your character has lost (the will to carry on with the story, or indeed, they are dead, if you're playing that sort of game and challenge). If your character dies or quits the quest, you can play on by using tokens to perform the other actions.
-
-## be kind
-
-When you are **kind**, choose the one Key that best reflects your intention:
-
-- ease, aid, soothe;
-- relate, inspire, support;
-- sway, disarm, placate.
-
-Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
-
-On any hit, the outcome you hoped for comes to pass, then:
-
-- Solid Hit: ask the other PCs and the GM what their character, a place, or another entity needs the most;
-- Messy Hit: **embrace a shortcoming**;
-- Miss: **brace yourself**.
-
-## be brave
-
-When you are **brave**, choose the one Key that best reflects your intention:
-
-- confront, oppose, intercept;
-- endure, divert, protect;
-- encourage, embolden, empower.
-
-Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
-
-On any hit, the outcome you hoped for comes to pass, then:
-
-- Solid Hit: ask the other PCs and the GM how you can stand against wrong or harm, to yourself or to others;
-- Messy Hit: **embrace a shortcoming**;
-- Miss: **brace yourself**.
-
-## be curious
-
-When you are **curious**, choose the one Key that best reflects your intention:
-
-- observe, study, search;
-- meddle, probe, test;
-- contact, request, engage.
-
-Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
-
-On any hit, the outcome you hoped for comes to pass, then:
-
-- Solid Hit: ask the other PCs and the GM about something you wish to know more about;
-- Messy Hit: **embrace a shortcoming**;
-- Miss: **brace yourself**.
-
-## be cautious
-
-When you are **cautious**, choose the one Key that best reflects your intention:
-
-- observe, identify, heed;
-- disarm, dissuade, divert;
-- plan, maneuver, position.
-
-Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
-
-On any hit, the outcome you hoped for comes to pass, then:
-
-- Solid Hit: ask the other PCs and the GM about the world around you to find your way forward;
-- Messy Hit: **embrace a shortcoming**;
-- Miss: **brace yourself**.
-
-## be insightful
-
-When you are **insightful**, choose the one Key that best reflects your intention:
-
-- wonder, portend, imagine;
-- sense, probe, trust;
-- guide, channel, yield.
-
-Describe how you pursue your intention through your words or deeds, discuss what you hope will happen, then roll the dice.
-
-On any hit, the outcome you hoped for comes to pass, then:
-
-- Solid Hit: ask the other PCs and the GM what you find out as you open your senses to the wondrous and otherworldly;
-- Messy Hit: **embrace a shortcoming**;
-- Miss: **brace yourself**.
+On a **miss** you must **brace yourself**.
 
 # reaction moves
 
@@ -178,6 +72,18 @@ When you get in the way of a party member, you can give them a choice. Ask them 
 - If they say no, they **heighten a Burden**.
 
 If you give them no choice, make one of your Burdens **too heavy to bear**.
+
+> ## The Team Roll Off 
+> 
+> When multiple players want to work together to successfully complete a task, they decide what a success, mixed success and failure look like. 
+> 
+> R, Q and D are trying to scale the outside of a building together. They agree that mixed success is that they get spotted. Failure means someone falls. They decide it will be D’s character. 
+> 
+> Then, they all roll a dice. If there is a match, they succeed. If the difference between the highest and lowest result is 2 or less, they achieve mixed success. Otherwise, it’s a failure. 
+> 
+> Example #1: R rolls a 5. Q rolls a 4. D rolls a 1. There are no matches. And the difference between the highest (5) and the lowest (1) is more than 2 so it’s a failure. 
+> 
+> Example #2: R rolls 4. Q rolls 4. D rolls a 5. It’s a success!
 
 # party care moves
 
