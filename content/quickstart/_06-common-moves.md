@@ -1,31 +1,59 @@
 ---
 weight: 6
-title: "common moves"
+title: "core moves"
 ---
-# 6 - common moves
+# 6 - core moves
 
 All characters have access to these moves at any time.
 
+## play your role
+
+At any time, roleplay your PC's actions, reactions, and emotions in response to any of the other types of actions, or to propel the story forwards in some way. 
+
+There is no cost or gain in terms of dice other mechanics, this is a freeform action that includes anything that doesn't present any serious risk, challenge, or chance.
+
 ## give it a try
 
-When you give things a try or take a chance, determine with the Party and the GM which of these statements you believe are true:
+When you **give things a try** or take a chance, determine with the Party and the GM which of these statements you believe are true:
 
 > - I have a Unique Trait that is especially relevant now;
 > - I have the time and freedom to go about it without pressure;
 > - I carry knowledge or tools that are especially relevant now, in the form of Burdens or otherwise.
 
-If all statements are true you should be able to do what you set out to without a roll.
+If all statements are true, you should be able to do what you set out to without a roll.
 
 Otherwise, choose an Approach and describe what you hope will happen.
 
 - When two statements are true, take +1d6, and roll the dice.
 - When one statement is true, roll the dice as usual.
 
-On a **critical hit**, the outcome you hoped for comes to pass *and* you may choose one: **take +1 forward or avoid a shortcoming**.
+On a **critical hit**, the outcome you hoped for comes to pass *and* you may choose one: **take an opportunity or avoid a shortcoming**.
+
+On a **solid hit**, the outcome you hoped for comes to pass more or less as intended.
 
 On a **messy hit**, the outcome you hoped for comes to pass, *but* take a **shortcoming**.
 
 On a **miss** you must **brace yourself**.
+
+## invite a new reality
+
+When you **invite a new reality**, prompt one of the other Players to add something new to the narrative. 
+
+Ask them a question related to people, places, events, or nature, and offer one of your Personal Dice. Any player may take that die and answer the question, adding the new element to the world.
+
+## carve a new reality
+
+When you **carve a new reality**, add something new to the narrative. Choose a topic from people, places, events, or community, and make your Proposal. 
+
+Take 1d6 from your Personal Pool and go around the group asking each Player if they agree with your proposal. Anyone who agrees hands over one dice from their pool.
+
+If everyone agrees on the Proposal, it just happens.
+
+If you did not receive a dice from everyone else, ask “What will happen if I don’t roll a 6?" Players who did not give dice suggest an Alternative.
+
+Roll he dice you have collected. If you get a 6, the proposal happens. Otherwise, the Alternative takes place.
+
+Add all of the collected dice to the Party Pool.
 
 # reaction moves
 
@@ -56,7 +84,7 @@ When you want to **push back** against an undesired outcome, tell the party and 
 
 Discuss with the others how it should happen, then **give up** a Burden.
 
-# meddling moves
+# cooperation moves
 
 Use these moves to help or hinder someone else, whether a PC, or a GM character.
 
@@ -73,17 +101,13 @@ When you get in the way of a party member, you can give them a choice. Ask them 
 
 If you give them no choice, make one of your Burdens **too heavy to bear**.
 
-> ## The Team Roll Off 
-> 
-> When multiple players want to work together to successfully complete a task, they decide what a success, mixed success and failure look like. 
-> 
-> R, Q and D are trying to scale the outside of a building together. They agree that mixed success is that they get spotted. Failure means someone falls. They decide it will be D’s character. 
-> 
-> Then, they all roll a dice. If there is a match, they succeed. If the difference between the highest and lowest result is 2 or less, they achieve mixed success. Otherwise, it’s a failure. 
-> 
-> Example #1: R rolls a 5. Q rolls a 4. D rolls a 1. There are no matches. And the difference between the highest (5) and the lowest (1) is more than 2 so it’s a failure. 
-> 
-> Example #2: R rolls 4. Q rolls 4. D rolls a 5. It’s a success!
+## make a group effort
+
+When multiple PCs **make a group effort**, all Players involved decide what a solid hit, a messy hit and a miss look like.
+
+Each Player involved rolls 1d6 they must take from the Party Pool, then all PCs add the highest 2d6 together.
+
+If there aren't enough Party Dice for all Players involved, any player may **heighten a burden** once to provide a die from their own Personal Pool to another Player.
 
 # party care moves
 
