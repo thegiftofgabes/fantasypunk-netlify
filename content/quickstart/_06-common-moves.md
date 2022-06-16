@@ -35,12 +35,6 @@ On a **messy hit**, the outcome you hoped for comes to pass, *but* take a **shor
 
 On a **miss** you must **brace yourself**.
 
-## invite a new reality
-
-When you **invite a new reality**, prompt one of the other Players to add something new to the narrative. 
-
-Ask them a question related to people, places, events, or nature, and offer one of your Personal Dice. Any player may take that die and answer the question, adding the new element to the world.
-
 ## carve a new reality
 
 When you **carve a new reality**, add something new to the narrative. Choose a topic from people, places, events, or community, and make your Proposal. 
@@ -54,6 +48,14 @@ If you did not receive a dice from everyone else, ask “What will happen if I d
 Roll he dice you have collected. If you get a 6, the proposal happens. Otherwise, the Alternative takes place.
 
 Add all of the collected dice to the Party Pool.
+
+- take control of npcs
+
+## invite a new reality
+
+When you **invite a new reality**, prompt one of the other Players to add something new to the narrative. 
+
+Ask them a question related to people, places, events, or nature, and offer one of your Personal Dice. Any player may take that die and answer the question, adding the new element to the world.
 
 # reaction moves
 
@@ -82,7 +84,7 @@ If you decide you want to avoid it, you can **Push Back**.
 
 When you want to **push back** against an undesired outcome, tell the party and the GM what part of the tale you want to change.
 
-Discuss with the others how it should happen, then **give up** a Burden.
+Discuss with the others how it should happen, then **lessen a Burden**.
 
 # cooperation moves
 
