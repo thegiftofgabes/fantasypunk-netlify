@@ -1,24 +1,57 @@
 # core moves
 
+All characters have access to these moves at any time.
+
 ## play your role
 
-tell what your character says and does
+At any time, roleplay your PC's actions, reactions, and emotions in response to any of the other types of actions, or to propel the story forwards in some way. 
+
+There is no cost or gain in terms of dice other mechanics, this is a freeform action that includes anything that doesn't present any serious risk, challenge, or chance.
 
 ## give it a try
 
-roll dice to find out what happens
+When you **give things a try** or take a chance, determine with the Party and the GM which of these statements you believe are true:
 
-## find out
+> - I have a Unique Trait that is especially relevant now;
+> - I have the time and freedom to go about it without pressure;
+> - I carry knowledge or tools that are especially relevant now, in the form of Burdens or otherwise.
+
+If all statements are true, you should be able to do what you set out to without a roll.
+
+Otherwise, choose an Approach and describe what you hope will happen.
+
+- When two statements are true, take +1d6, and roll the dice.
+- When one statement is true, roll the dice as usual.
+
+On a **critical hit**, the outcome you hoped for comes to pass *and* you may choose one: **take an opportunity or avoid a shortcoming**.
+
+On a **solid hit**, the outcome you hoped for comes to pass more or less as intended.
+
+On a **messy hit**, the outcome you hoped for comes to pass, *but* take a **shortcoming**.
+
+On a **miss** you must **brace yourself**.
+
+## pull a thread
 
 ask a question about people, places, community, or events heighten weight to add to the token pool
 
-## spout lore
+## propose something new
 
 create a new truth about people, places, nature, or events, spend from the token pool
 
 propose a truth and do procedure below
 
 on a non-consensus, propose alternative or different ditails etc then roll
+
+When you propose something new to the narrative, such as a new piece of lore, an event going on in the background, a new character and their goings, a new element in the scene, and so on, take 1d6 from your Personal Pool.
+
+Asking the other Players in order if they agree on your proposal. Anyone who agrees hands over one dice from their pool.
+
+If everyone agrees on the Proposal, it just happens. Add all of the collected dice to the Community Pool.
+
+If you did not receive a dice from everyone else, ask “What will happen if I don’t roll a 6?" Players who did not give dice suggest an Alternative.
+
+Roll he dice you have collected. If you get a 6, the proposal happens. Otherwise, the Alternative takes place.
 
 ---
 

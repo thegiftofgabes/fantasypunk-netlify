@@ -25,9 +25,12 @@ You can also make some moves just because you want to stir the pot, or just beca
 
 These are the most relevant moves:
 
-- **Party Care Moves** are a set of actions that ask the players to step away from the tale for a moment to take care of each other. Talk about them before you start playing.
+- **Core Moves** are the essential and most basic rules for creating a shared Tale. 
+    - **Play your Role** is what you do most of the time you are not rolling dice. When you describe what your character feels and expresses, you are roleplaying;
+    - **Give it a Try** covers most rolls the Player Characters make. Answer the promps, choose a Trait and roll to find out what happens;
+    - 
 
-- **Give it a Try** is the most basic move and will cover the majority of rolls the Player Characters make. Answer the promps, choose a Trait and roll to find out what happens.
+- **Party Care Moves** are a set of actions that ask the players to step away from the tale for a moment to take care of each other. Talk about them before you start playing.
 
 - **Remarkable Moves** allow you to do something, or Give it a Try, under special conditions and with unique outcomes. They expand your options and possibilities and make characters even more unique.
 
@@ -63,3 +66,11 @@ Not all moves have a specific effect for a Critical Hit. In those cases, interpr
 When you roll a Burden Die, keep track of its result, regardless of whether you add it to the final roll or not.
 
 > Tip: always count the die that falls further away from you, or use a die of a different colour or size, or always count the first die you roll in the pool as the Burden Die.
+
+## personal pool
+
+## community pool
+
+or party pool?
+
+## oracle die

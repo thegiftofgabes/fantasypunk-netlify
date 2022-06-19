@@ -8,52 +8,65 @@ All characters have access to these moves at any time.
 
 ## play your role
 
-At any time, roleplay your PC's actions, reactions, and emotions in response to any of the other types of actions, or to propel the story forwards in some way. 
+> Do this to create a collaborative tale without the need for dice or other rules.
+
+When you want to express how your character acts, moves and feels, towards any aspect of the Tale or in response to anyone else's moves, **play your role**.
+
+Describe or roleplay what your character says or does and develop the narrative together with the rest of the Party and the GM.
 
 There is no cost or gain in terms of dice other mechanics, this is a freeform action that includes anything that doesn't present any serious risk, challenge, or chance.
 
 ## give it a try
 
-When you **give things a try** or take a chance, determine with the Party and the GM which of these statements you believe are true:
+> Do this to decide whether your character is in a position to take a particularly tricky, risky or uncertain before they make another move.
 
-> - I have a Unique Trait that is especially relevant now;
-> - I have the time and freedom to go about it without pressure;
-> - I carry knowledge or tools that are especially relevant now, in the form of Burdens or otherwise.
+When you **give something** a try, determine with the Party and the GM which of these statements you believe are true:
 
-If all statements are true, you should be able to do what you set out to without a roll.
+- I have a Unique Trait that is especially relevant now;
+- I have the time and freedom to go about it without pressure;
+- I carry knowledge or tools that are especially relevant now, in the form of Burdens or otherwise.
 
-Otherwise, choose an Approach and describe what you hope will happen.
+If all statements are true, you should be able to do what you set out to without a roll, and **play your role** as usual.
 
-- When two statements are true, take +1d6, and roll the dice.
-- When one statement is true, roll the dice as usual.
+If two statements are true, you can **take a chance** with +1d6. If only one statement is true, you can **take a chance** as usual.
 
-On a **critical hit**, the outcome you hoped for comes to pass *and* you may choose one: **take an opportunity or avoid a shortcoming**.
+If no statements are true, you should consider whether you can try this at all.
 
-On a **solid hit**, the outcome you hoped for comes to pass more or less as intended.
+## take a chance
+> Do this to try somethiung tricky, risky or uncertain, and determine the outcome of your move.
 
-On a **messy hit**, the outcome you hoped for comes to pass, *but* take a **shortcoming**.
+When you **take a chance**, choose an Approach and describe what you hope will happen.
 
-On a **miss** you must **brace yourself**.
+- **critical hit**: the outcome you hoped for comes to pass *and* you may choose one: **take an opportunity** or **avoid a shortcoming**.
+- **solid hit**: the outcome you hoped for comes to pass as intended.
+- **messy hit**: the outcome you hoped for comes to pass, *but* **take a shortcoming**.
+- **miss**: you must **brace yourself**.
 
 ## carve a new reality
+> Do this to directly influence the narrative as a player rather than through roleplaying your character.
 
-When you **carve a new reality**, add something new to the narrative. Choose a topic from people, places, events, or community, and make your Proposal. 
+When you want to steer the narrative in a particular direction, create a new aspect in the Tale, or elaborate on an existing one. Choose an option below:
 
-Take 1d6 from your Personal Pool and go around the group asking each Player if they agree with your proposal. Anyone who agrees hands over one dice from their pool.
+- create or elaborate on a location;
+- create or elaborate on a relationship;
+- create or elaborate on an event;
+- create or elaborate on a GM character not present or that you're about to meet, and take over that character during this scene.
+
+Take 1d6 from your Personal Pool and go around the group asking each Player if they agree with your Proposal. Anyone who agrees hands over one dice from their pool.
 
 If everyone agrees on the Proposal, it just happens.
 
-If you did not receive a dice from everyone else, ask “What will happen if I don’t roll a 6?" Players who did not give dice suggest an Alternative.
+If you did not receive one or more dice from everyone else, ask “What will happen if I don’t roll a 6?" Players who did not give dice suggest an Alternative.
 
 Roll he dice you have collected. If you get a 6, the proposal happens. Otherwise, the Alternative takes place.
 
 Add all of the collected dice to the Party Pool.
 
-- take control of npcs
+## create sparks, provoke...
 
-## invite a new reality
+When you want to know more about a person, place, event or other part of the world, you can **invite a new reality**.
 
-When you **invite a new reality**, prompt one of the other Players to add something new to the narrative. 
+Prompt one of the other Players to add something new to the narrative.
 
 Ask them a question related to people, places, events, or nature, and offer one of your Personal Dice. Any player may take that die and answer the question, adding the new element to the world.
 
@@ -61,11 +74,11 @@ Ask them a question related to people, places, events, or nature, and offer one 
 
 These moves come into play as a response to other moves.
 
-## embrace a shortcoming
+## take a shortcoming
 
-When you **embrace a shortcoming**, choose one of the options below, or roll 1d6 to let the dice choose for you.
+When you **take a shortcoming**, choose one of the options below, or let an **oracle die** choose for you.
 
-When you **start uneven**, choose a Shortcoming before you roll and add 1d6 to the Dice Pool.
+When you **start uneven**, choose an option below before you roll and add +1d6 to the Dice Pool.
 
 1. you make a **mistake**, whether you realize it now or later;
 2. you create a **commotion** or attract unwanted attention;
