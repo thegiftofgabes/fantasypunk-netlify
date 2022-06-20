@@ -3,7 +3,7 @@ weight: 7
 title: "Burdens"
 ---
 
-# 07 - burdens: the weight of your journey
+# burdens: the weight of your journey
 
 Most of us carry our own weight, then some.
 

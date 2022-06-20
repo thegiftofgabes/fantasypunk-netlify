@@ -62,9 +62,26 @@ Roll he dice you have collected. If you get a 6, the proposal happens. Otherwise
 
 Add all of the collected dice to the Party Pool.
 
-## create sparks, provoke...
+## cultivate realities
 
-When you want to know more about a person, place, event or other part of the world, you can **invite a new reality**.
+When you want to invite another player to elaborate on an aspect of the Tale, ask them a question about an event, a relationshop, a location or a GM character.
+
+• Is your character telling the truth?
+• What’s your character really feeling?
+• What does your character intend to do?
+• What does your character wish I’d do?
+• How could I get your character to —?
+
+• Where’s my best escape route / way in / way past?  
+• Which enemy is most vulnerable to me?  
+• Which enemy is the biggest threat?  
+• What should I be on the lookout for?  
+• What’s my enemy’s true position?  
+• Who’s in control here?
+
+> When you are able to go to someone for insight, ask them what they think your best course is, and the MC will tell you. If you pursue that course, take +1 to any rolls you make in the pursuit. If you pursue that course but don’t accomplish your ends, you mark experience.
+
+create a new aspect in the Tale, or elaborate on an existing one.
 
 Prompt one of the other Players to add something new to the narrative.
 

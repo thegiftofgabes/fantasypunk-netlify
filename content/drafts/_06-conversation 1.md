@@ -1,21 +1,17 @@
 ---
-weight: 5
+weight: 6
 title: "the conversation"
 ---
 
-# 5 - the conversation: roleplaying, moves and dice
+# the conversation: roleplaying, moves and dice
 
-**fantasypunk** is played as a kind of conversation where everyone is adding something to the tale to take it into fun and interesting directions.
+**fantasypunk** is played as a kind of conversation where everyone involved takes part in creating a Tale by adding something to take it into fun and interesting directions.
 
-What makes it different from any other conversation is the unique boundaries provided by the pillars, the setting, the principles, and the agenda.
+What makes it different from any casual conversation is the unique boundaries provided by the social rules, the narrative rules, and the system rules.
 
-Often time, the GM will propose a situation, offer details or escalate the drama, prompting the PCs to act or react to it.
+Most times, the conversation revolves around a cycle that starts with the GM describing a situation, the PCs acting in it, or reacting to it, and the GM describing how the situation changed.
 
-The GM will respond to the players choices in kind and so on and so forth.
-
-Sometimes the PCs choose to do something bold, take a risk, raise the stakes, face opposition... or most likely just do something cool to see what happens.
-
-That's when Moves come into play, usually asking the dice what direction the tale should go.
+Sometimes the PCs choose to do something bold, take a risk, raise the stakes, face opposition... or most likely just do something cool to see what happens, which usually results in asking the dice in what direction the tale should go.
 
 ## making moves
 
