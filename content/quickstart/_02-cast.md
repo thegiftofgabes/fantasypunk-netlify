@@ -1,17 +1,24 @@
 ---
 weight: 2
-title: "the players"
+title: "cast"
+description: All players have Roles and Responsibilities to collaborate on a fun, safe game.
 ---
 
 # roles
 
-There are two distinct roles to be distributed among the Players in **fantasypunk**: the Giramundo, or GM, and the Player Characters, or PCs
+There are two distinct roles to be distributed among the Players in **fantasypunk**: Giramundo, or GM, and Andejo.
 
-Usually a single Player takes the role of GM, while the others take the roles of Player Characters.
+Usually a single Player takes the role of GM, while the others take the roles of Andejos.
 
+In summary, the GM is usually creating and fleshing out the world and the setting the other characters inhabit, often creating and controlling Supporting Characters. 
 
+Meanwhile, the Andejos usually will bein charge of a single character, a Party Companion, and are expected to roleplay them and make decisions about them.
 
-## player characters
+It is recommended that a group, with or withot a GM, have 3 to 5 Andejos.
+
+## andejo
+
+Each Andejo controls a single character known as Party Comrade, or PC.
 
 ### agenda
 
@@ -40,9 +47,7 @@ These principles will help you put everyone in the same page.
 
 As the Giramundo, or GM, you are a kind counterpoint to the other Players.
 
-Your main responsibility is to provoke dramatic situations for the PCs.
-
-It’s okay to learn as you go, too. The core of the game is mostly in the Common and Remarkable Moves.
+Mostly you are expected to provide dramatic situations for the Andejos, as well as create and run new characters and plot elements.
 
 ### overview
 In short, as a GM, you are expected to introduce a new scene or situation, ask the other Players *"what do you do?"*, and improve the scene or situation according to what the Players do, what their Characters do and what the Dice prompts.
@@ -76,6 +81,10 @@ These few simple principles will help you tell enjoyable and compelling stories 
 
 # responsibilities
 
+Traditionally, the GM is burdened with organising, hosting, running, and facilitating game sessions.
+
+It is recommended that these responsibilities be shared among the Players involved in order to both alleviate the GM and allow a richer collaborative experience.
+
 ## narrative and plot
 
 Making a story cohesive and interesting
@@ -90,9 +99,7 @@ Making sure each player and character gets a good amount of time to actively eng
 
 ## rules and metaplay
 
-Someone who handles the rules as the table has agreed to them, and edits game and narration around the only relevant parts
-
-and be able to introduce others to the rules. 
+Someone who handles the rules as the table has agreed to them, and edits game and narration around the only relevant parts and be able to introduce others to the rules. 
 
 ## voice of NPCs
 Speaking for, and acting out the role of NPCs

@@ -18,7 +18,7 @@ There is no cost or gain in terms of dice other mechanics, this is a freeform ac
 
 ## give it a try
 
-> Do this to decide whether your character is in a position to take a particularly tricky, risky or uncertain before they make another move.
+> Do this to decide whether your character is in a position to tro something particularly tricky, risky or uncertain before they make another move.
 
 When you **give something** a try, determine with the Party and the GM which of these statements you believe are true:
 
@@ -42,10 +42,12 @@ When you **take a chance**, choose an Approach and describe what you hope will h
 - **messy hit**: the outcome you hoped for comes to pass, *but* **take a shortcoming**.
 - **miss**: you must **brace yourself**.
 
-## carve a new reality
+## have a say
 > Do this to directly influence the narrative as a player rather than through roleplaying your character.
 
-When you want to steer the narrative in a particular direction, create a new aspect in the Tale, or elaborate on an existing one. Choose an option below:
+When you want to **have a say** on the Tale to create a new aspect, or elaborate on an existing one, make a Proposal.
+
+Choose one of the options below and describe your Proposal to the other Players.
 
 - create or elaborate on a location;
 - create or elaborate on a relationship;
@@ -56,15 +58,17 @@ Take 1d6 from your Personal Pool and go around the group asking each Player if t
 
 If everyone agrees on the Proposal, it just happens.
 
-If you did not receive one or more dice from everyone else, ask “What will happen if I don’t roll a 6?" Players who did not give dice suggest an Alternative.
+If one or more Players did not offer you a die, ask those players “What will happen if I don’t roll a 6?", and they will suggest one or more Alternatives.
 
-Roll he dice you have collected. If you get a 6, the proposal happens. Otherwise, the Alternative takes place.
+Roll the dice you have collected. If you get a 6, the proposal happens. Otherwise, choose one of the Alternatives presented.
 
 Add all of the collected dice to the Party Pool.
 
-## cultivate realities
+## learn about the tale
 
-When you want to invite another player to elaborate on an aspect of the Tale, ask them a question about an event, a relationshop, a location or a GM character.
+When you want to **learn more about the Tale**... 
+
+When you want to pull another Player into the Tale to elaborate on an aspect of the Tale, ask them a question about an event, a relationshop, a location or a GM character.
 
 • Is your character telling the truth?
 • What’s your character really feeling?

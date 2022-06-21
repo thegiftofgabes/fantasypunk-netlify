@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: "the conversation"
+title: "conversation"
 ---
 
 # the conversation: roleplaying, moves and dice
@@ -9,9 +9,26 @@ title: "the conversation"
 
 What makes it different from any casual conversation is the unique boundaries provided by the social rules, the narrative rules, and the system rules.
 
-Most times, the conversation revolves around a cycle that starts with the GM describing a situation, the PCs acting in it, or reacting to it, and the GM describing how the situation changed.
+Most times, the conversation revolves around a cycle that starts with the GM describing a situation, the Andejos acting or reacting to it on behalf of their PCs, and the GM describing how the situation changed.
 
 Sometimes the PCs choose to do something bold, take a risk, raise the stakes, face opposition... or most likely just do something cool to see what happens, which usually results in asking the dice in what direction the tale should go.
+
+## doing things
+
+Both the GM and the Andejos have a set of actions to describe the world, what their characters do, and how they all change each other.
+
+- **play your role**:  describe what your character says and does. Remember to follow your Principles and Agenda as best as you can;
+- **give it a try**: figure out whether you should be able to do a thing;
+- **take a chance**: roll the dice to find out what happens when you do something particularly tricky, risky or uncertain;
+- **have a say**: 
+
+
+
+
+
+
+
+
 
 ## making moves
 

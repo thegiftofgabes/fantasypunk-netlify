@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: "Safety Tools"
+title: "safety tools"
 ---
 
 # playing safe games

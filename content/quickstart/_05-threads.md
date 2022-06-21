@@ -9,16 +9,6 @@ Settings and scenarios are the background of the tale you are all sharing.
 
 As long as there is magic and wonder, and many opportunities to meet interesting people and get into and out of trouble, any world works.
 
-# pillars
-
-**fantasypunk** assumes that the pillars below are always true in any Tale:
-
-- **heroic fantasy:** the world is alive and vibrant, and it doesn't revolve around you;
-- **wondrous and mundane:** magic exists and it is wondrous and wild, althout it is hardly world breaking, if at all;
-- **humanity is relative:** people are complicated, diverse, and often conflicted but are mostly kind and willing to do good;
-- **monstrosity is relative:** the real monsters are those who stand against happiness, love and the freedom of being, usually by choice or complacency;
-- **no hat fits all:** no individuals, communities, religions or cultures are single-minded, unilateral or exclusive.
-
 # starter threads
 
 If you are stuck, here's a little list of starting scenarios for your game. Just pick one everyone goes wide-eyed for or roll 1d6, or maybe combine them somehow.
