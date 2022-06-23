@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 7
 title: "core moves"
 ---
 # 6 - core moves
@@ -12,7 +12,7 @@ All characters have access to these moves at any time.
 
 When you want to express how your character acts, moves and feels, towards any aspect of the Tale or in response to anyone else's moves, **play your role**.
 
-Describe or roleplay what your character says or does and develop the narrative together with the rest of the Party and the GM.
+Describe or roleplay what your character says and does, and develop the narrative together with the rest of the Party and the GM.
 
 There is no cost or gain in terms of dice other mechanics, this is a freeform action that includes anything that doesn't present any serious risk, challenge, or chance.
 
@@ -64,32 +64,19 @@ Roll the dice you have collected. If you get a 6, the proposal happens. Otherwis
 
 Add all of the collected dice to the Party Pool.
 
-## learn about the tale
+## seek answers
 
-When you want to **learn more about the Tale**... 
+When you **seek answers** about an aspect of the Tale, ask one of the questions below to no one in particular.
 
-When you want to pull another Player into the Tale to elaborate on an aspect of the Tale, ask them a question about an event, a relationshop, a location or a GM character.
+- what is the relationship between --- and --- ?
+- what do I know about --- that no one else does?
+- what is the running roumor on --- ?
+- what should --- do (about ---)?
+- what opportunity have we completely missed here?
 
-• Is your character telling the truth?
-• What’s your character really feeling?
-• What does your character intend to do?
-• What does your character wish I’d do?
-• How could I get your character to —?
+Offer a Personal Die to any player who answer the question you chose. 
 
-• Where’s my best escape route / way in / way past?  
-• Which enemy is most vulnerable to me?  
-• Which enemy is the biggest threat?  
-• What should I be on the lookout for?  
-• What’s my enemy’s true position?  
-• Who’s in control here?
-
-> When you are able to go to someone for insight, ask them what they think your best course is, and the MC will tell you. If you pursue that course, take +1 to any rolls you make in the pursuit. If you pursue that course but don’t accomplish your ends, you mark experience.
-
-create a new aspect in the Tale, or elaborate on an existing one.
-
-Prompt one of the other Players to add something new to the narrative.
-
-Ask them a question related to people, places, events, or nature, and offer one of your Personal Dice. Any player may take that die and answer the question, adding the new element to the world.
+When another Player answer your question, give them the die you offered and prompt them to clarify their answer as needed.
 
 # reaction moves
 
