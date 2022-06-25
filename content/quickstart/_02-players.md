@@ -1,7 +1,7 @@
 ---
-weight: 2
-title: "cast"
-description: All players have Roles and Responsibilities to collaborate on a fun, safe game.
+weight: 02
+title: "players"
+description: "All players have Roles and Responsibilities to collaborate on a fun, safe game."
 ---
 
 # roles

@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 09
 title: "core moves"
 ---
 # 6 - core moves
@@ -20,7 +20,7 @@ There is no cost or gain in terms of dice other mechanics, this is a freeform ac
 
 > Do this to decide whether your character is in a position to tro something particularly tricky, risky or uncertain before they make another move.
 
-When you **give something** a try, determine with the Party and the GM which of these statements you believe are true:
+When you **give something a try**, determine with the Party and the GM which of these statements you believe are true:
 
 - I have a Unique Trait that is especially relevant now;
 - I have the time and freedom to go about it without pressure;
@@ -78,9 +78,19 @@ Offer a Personal Die to any player who answer the question you chose.
 
 When another Player answer your question, give them the die you offered and prompt them to clarify their answer as needed.
 
-# reaction moves
+# follow up moves
 
 These moves come into play as a response to other moves.
+
+## listen to intuition
+
+When you **give it a try** and roll a critical hit, your intuition allows you to ask the GM or another Player a question according to the Trait you choose as an approach.
+
+- **Kind:** on a critical hit, ask the GM or another Player what their character, a place, or another entity needs the most;
+- **Brave:** on a critical hit, ask the GM or another Player how you can best stand against wrong or harm, to yourself or to others;
+- **Curious:** on a critical hit, ask the GM or another Player what feelings or movements are really going on below the surface;
+- **Cautious:** on a critical hit, ask the GM or another Player what is the best way to move forward, get out or get away;
+- **Insightful:** on a critical hit, ask the GM or another Player what they think the best course of action is.
 
 ## take a shortcoming
 
@@ -107,7 +117,7 @@ When you want to **push back** against an undesired outcome, tell the party and 
 
 Discuss with the others how it should happen, then **lessen a Burden**.
 
-# cooperation moves
+# intervention moves
 
 Use these moves to help or hinder someone else, whether a PC, or a GM character.
 
@@ -132,7 +142,7 @@ Each Player involved rolls 1d6 they must take from the Party Pool, then all PCs 
 
 If there aren't enough Party Dice for all Players involved, any player may **heighten a burden** once to provide a die from their own Personal Pool to another Player.
 
-# party care moves
+# care moves
 
 These moves codify a set of safety tools into the game procedures.
 

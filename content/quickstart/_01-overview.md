@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 01
 title: "overview"
 description: "This is a short summary of how to start playing fantasypunk."
 ---

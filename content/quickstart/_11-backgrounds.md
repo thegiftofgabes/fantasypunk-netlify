@@ -1,5 +1,5 @@
 ---
-weight: 8
+weight: 11
 title: "Backgrounds"
 ---
 
@@ -44,3 +44,11 @@ Your conversation with the laws and common customs in most places is one-way onl
 **Unique Trait** (choose one or roll 1d6): Alert, Irreverent, Cunning, Sardonic, Ambitious, Optimistic.
 
 **Burdens:** an ILEGAL TOOL; a HIDDEN WEAPON; a CLEVER ESCAPE; two other things.
+
+## The Guardian
+
+Coming soon.
+
+## The Scholar
+
+Coming soon.

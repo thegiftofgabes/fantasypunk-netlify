@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 06
 title: "conversation"
 ---
 
@@ -13,43 +13,23 @@ Most times, the conversation revolves around a cycle that starts with the GM des
 
 Sometimes the PCs choose to do something bold, take a risk, raise the stakes, face opposition... or most likely just do something cool to see what happens, which usually results in asking the dice in what direction the tale should go.
 
-## doing things
-
-Both the GM and the Andejos have a set of actions to describe the world, what their characters do, and how they all change each other.
-
-- **play your role**:  describe what your character says and does. Remember to follow your Principles and Agenda as best as you can;
-- **give it a try**: figure out whether you should be able to do a thing;
-- **take a chance**: roll the dice to find out what happens when you do something particularly tricky, risky or uncertain;
-- **have a say**: 
-
-
-
-
-
-
-
-
-
 ## making moves
 
-All you have to do to make a move is read the move and follow its instructions, asking and answering any questions, and interpreting open ended promps.
+Moves represent rules that trigger short procedures with somewhat concise or well-defined outcomes.
 
-You can also make some moves just because you want to stir the pot, or just because, whatever you feel like in the moment.
+Once a Move is triggered, all you have to do is follow its procedure, asking and answering any questions honestly, and interpreting any open ended prompts.
 
-These are the most relevant moves:
+You can also make some moves just because you want to stir the pot, or just because; whatever you feel like in the moment.
 
-- **Core Moves** are the essential and most basic rules for creating a shared Tale. 
-    - **Play your Role** is what you do most of the time you are not rolling dice. When you describe what your character feels and expresses, you are roleplaying;
-    - **Give it a Try** covers most rolls the Player Characters make. Answer the promps, choose a Trait and roll to find out what happens;
-    - 
+Every Brincante has access to the Core Moves, which summarize most relevant ways Characters and Players influence the fiction: role playing, trying things, adding elements to the narrative, and luring others to add elements to the narrative.
 
-- **Party Care Moves** are a set of actions that ask the players to step away from the tale for a moment to take care of each other. Talk about them before you start playing.
+Additionally, all Players, including the GM, have access to Care Moves, rules that encourage and promote attention to safety for the whole Group.
 
-- **Remarkable Moves** allow you to do something, or Give it a Try, under special conditions and with unique outcomes. They expand your options and possibilities and make characters even more unique.
+Follow up Moves come into play as a result of another move, while Intervention Moves allow characters to help or hinder others.
 
 > Make an Approach Move > Roll the dice > On a solid hit, resolve the Approach move > Resolve the Special Move
 
-## the dice pool
+## rolling dice
 
 Most times when you roll the dice, pool together each die provided by your Traits, Burdens, situational modifiers, and so on, roll them all, then keep the highest two results, adding them together.
 
@@ -81,6 +61,8 @@ When you roll a Burden Die, keep track of its result, regardless of whether you 
 > Tip: always count the die that falls further away from you, or use a die of a different colour or size, or always count the first die you roll in the pool as the Burden Die.
 
 ## personal pool
+- can be given away for a 1d6 help
+- 
 
 ## community pool
 
