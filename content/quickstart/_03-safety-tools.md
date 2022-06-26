@@ -1,6 +1,7 @@
 ---
 weight: 03
 title: "safety tools"
+description: "A set of procedures to help all Players respect and uphold boundaries of respect and care."
 ---
 
 # playing safe games

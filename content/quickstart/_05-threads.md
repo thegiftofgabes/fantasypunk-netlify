@@ -1,6 +1,7 @@
 ---
 weight: 05
 title: "threads"
+description: "A selection of short scenarios and setting prompts to start a game quickly."
 ---
 
 # threads: scenarios and settings

@@ -1,6 +1,7 @@
 ---
 weight: 06
 title: "conversation"
+description: "A summary of some of the main rules and how their boundaries are defined."
 ---
 
 # the conversation: roleplaying, moves and dice
@@ -58,14 +59,18 @@ Not all moves have a specific effect for a Critical Hit. In those cases, interpr
 
 When you roll a Burden Die, keep track of its result, regardless of whether you add it to the final roll or not.
 
+Compare it with the Weight of the Burden you just relied on. If you rolled under it, that Burden becomes **too heavy to bear**. Otherwise, **heighten that Burden**, increasing its Weight by 1.
+
 > Tip: always count the die that falls further away from you, or use a die of a different colour or size, or always count the first die you roll in the pool as the Burden Die.
 
 ## personal pool
-- can be given away for a 1d6 help
-- 
 
-## community pool
+When you start the session, take 1d6 for every Player present, including yourself. That is your Personal Pool. 
 
-or party pool?
+Use it to **have a say**, adding or elaboriting aspects of the Tale, or to **offer help** when another Bearer **takes a chance**.
 
-## oracle die
+## party pool
+
+When any Brincante uses a die from their Personal Pool, those dice go to the Party Pool.
+
+The Party Pool is a collective pool of dice to be used when the Bearers **[[_09-core-moves#make a group effort]]**.

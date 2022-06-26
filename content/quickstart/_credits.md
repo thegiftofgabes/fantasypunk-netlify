@@ -1,6 +1,7 @@
 ---
 weight: 00
 title: "credits"
+description: "Attribution, License, Credits, and Influences."
 ---
 
 # Attribution

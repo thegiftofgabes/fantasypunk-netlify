@@ -1,6 +1,7 @@
 ---
 weight: 04
 title: "pillars"
+description: "The basic assumptions about every game of fantasypunk"
 ---
 
 # fictional pillars: collaborative common ground

@@ -1,6 +1,7 @@
 ---
 weight: 10
 title: "remarkable moves"
+description: "A set of character option that allows Bearers to interact differently through their Core Moves."
 ---
 
 # remarkable moves: special abilities and skills

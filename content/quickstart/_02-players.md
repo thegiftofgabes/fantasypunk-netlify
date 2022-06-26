@@ -87,19 +87,19 @@ It is recommended that these responsibilities be shared among the Players involv
 
 ## narrative and plot
 
-Making a story cohesive and interesting
+Making a story cohesive and interesting.
 
 ## time and space
 
-Managing real world scheduling and “hosting” of game
+Managing real world scheduling and “hosting” of game.
 
 ## hooks and spotlight
 
-Making sure each player and character gets a good amount of time to actively engage in the plot
+Making sure each player and character gets a good amount of time to actively engage in the plot.
 
 ## rules and metaplay
 
 Someone who handles the rules as the table has agreed to them, and edits game and narration around the only relevant parts and be able to introduce others to the rules. 
 
-## voice of NPCs
-Speaking for, and acting out the role of NPCs
+## voice of supporting characters
+Speaking for, and acting out the role of supporting characters.

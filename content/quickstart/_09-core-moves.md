@@ -1,6 +1,7 @@
 ---
 weight: 09
 title: "core moves"
+description: "The common actions all Brincantes and their Bearers share and can tap into to influence the Tale or guarantee a safe conversation."
 ---
 # 6 - core moves
 
@@ -123,24 +124,26 @@ Use these moves to help or hinder someone else, whether a PC, or a GM character.
 
 ## offer help
 
-When you offer help to a party member and they accept, add +1d6 to their dice pool. Both of you share the consequences and mishaps of a messy hit or a miss.
+When you offer help to a party member and they accept, give them 1d6 from your Personal Pool to add to their roll immediately. Both of you describe how you do it and share the outcome of the chance you just took.
 
 ## get in the way
 
-When you get in the way of a party member, you can give them a choice. Ask them whether they fail because of you.
+When you **get in someone's way**, you may give them a choice and ask that Player whether their Bearer or supporting character suffers interference from you.
 
-- If they say yes, **heighten a Burden**;
-- If they say no, they **heighten a Burden**.
+- If they say yes, they must take a die from your Personal Pool for their own, otherwise you **heighten one of your Burdens**, and they describe what goes sideways, and how;
+- If they say no, they must yield one die from their Personal pool to the Party pool, otherwise they **heighten one of their Burdens**.
 
-If you give them no choice, make one of your Burdens **too heavy to bear**.
+If you give them no choice at all, make one of your Burdens **too heavy to bear**, and you describe the outcome of your interference.
 
 ## make a group effort
 
-When multiple PCs **make a group effort**, all Players involved decide what a solid hit, a messy hit and a miss look like.
+When multiple Bearers **make a group effort**, all Brincantes involved decide what a solid hit, a messy hit and a miss look like.
 
-Each Player involved rolls 1d6 they must take from the Party Pool, then all PCs add the highest 2d6 together.
+Each Brincante must roll 1d6 from the Party Pool, then all PCs add the highest 2d6 together.
 
-If there aren't enough Party Dice for all Players involved, any player may **heighten a burden** once to provide a die from their own Personal Pool to another Player.
+If there aren't enough Dice for all Players involved, any player may **heighten a burden** once to provide a die from their own Personal Pool to another Player.
+
+All dice used this way are spent and don't return to either Pool.
 
 # care moves
 

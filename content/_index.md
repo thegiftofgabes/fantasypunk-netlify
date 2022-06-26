@@ -1,6 +1,7 @@
 ---
 title: fantasypunk
 type: docs
+description: "fantasypunk is a narrative roleplaying game of incredible and fallible characters, the way they approach the world around them, and the burdens they carry."
 ---
 
 # fantasypunk
@@ -15,7 +16,7 @@ But until then, let's look at what burdens those complex, troubled, wondrous, an
 
 # What is fantasypunk?
 
-**fantasypunk** is a narrative game of incredible and fallible characters, the way they approach the world around them, and the burdens they carry.
+**fantasypunk** is a narrative roleplaying game of incredible and fallible characters, the way they approach the world around them, and the burdens they carry.
 
 Together we will weave tales of wanderers, travellers, the found and the lost, the seekers and the runaways, the people they meet, the friends they make along the way, and that change and are changed by them.
 
