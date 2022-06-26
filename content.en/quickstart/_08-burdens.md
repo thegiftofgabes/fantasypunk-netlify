@@ -1,6 +1,6 @@
 ---
 weight: 08
-title: "Burdens"
+title: "burdens"
 description: "Burdens represent a certain aspect of a character's history, the lessosn they learned, the materia lpossessions they carry around, and more."
 ---
 
