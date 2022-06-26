@@ -1,6 +1,7 @@
 ---
-weight: 10
+weight: 13
 title: "giramundo"
+description: "Guidance and procedures for the Player in the role of Giramundo (GM)."
 ---
 
 # the giramundo: the guide and mediator

@@ -1,15 +1,16 @@
 ---
-weight: 7
+weight: 08
 title: "Burdens"
+description: "Burdens represent a certain aspect of a character's history, the lessosn they learned, the materia lpossessions they carry around, and more."
 ---
 
-# 07 - burdens: the weight of your journey
+# burdens: the weight of your journey
 
 Most of us carry our own weight, then some.
 
-## invoke a burden
+## rely on a burden
 
-When you **invoke a Burden**, describe how you use it or rely on it, then add a Burden Die to the dice pool. When you roll, compare its result to the Burden's Weight.
+When you **rely on a Burden**, describe how you use it or how it comes into play, then add a Burden Die to the dice pool. When you roll, compare its result to the Burden's Weight.
 
 **Roll over:** When you roll over its Weight, your Burden weighs down on you a little as you lean on it. **Make it heavier**.
 

@@ -1,15 +1,16 @@
 ---
-weight: 8
-title: "Backgrounds"
+weight: 11
+title: "backgrounds"
+description: "Each Bearer has a Background, an outline of their journey before teh start of the Tale."
 ---
 
-# Starter Backgrounds
+# starter backgrounds
 
 These backgrounds are rough outlines that prompt you to fill in the gaps and flesh out full characters from them.
 
 Describe your starter Burdens as you see fit, or leave them open until they come into play.
 
-## The Witch
+## the witch
 
 Over the centuries, Witch has been a title of respect and wisdom, a warning to the fearful, a slur to the bigoted, and a mystery to the ignorant.
 
@@ -44,3 +45,11 @@ Your conversation with the laws and common customs in most places is one-way onl
 **Unique Trait** (choose one or roll 1d6): Alert, Irreverent, Cunning, Sardonic, Ambitious, Optimistic.
 
 **Burdens:** an ILEGAL TOOL; a HIDDEN WEAPON; a CLEVER ESCAPE; two other things.
+
+## The Guardian
+
+Coming soon.
+
+## The Scholar
+
+Coming soon.
