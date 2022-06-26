@@ -5,7 +5,7 @@ linktitle: glossary
 menu:
   main:
     parent: rules
-next: /posts/shortcodes
+next: /posts/pointcrawl
 # prev: /posts/post-name
 title: glossary
 weight: 01
