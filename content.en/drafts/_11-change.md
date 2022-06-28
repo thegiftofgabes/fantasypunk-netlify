@@ -9,9 +9,10 @@ title: "change"
 
 ## meditate
 
-When you are safe and can recall your journeys to **meditate** over how you changed, roll 1d6 for each of the below (you can roll more than 4d6):
+When you are safe and can recall your journeys to **meditate** over how you changed, roll 1d6 for each of the below:
 
 - You grew as a player;
+- Your PC relied on their struggling Trait;
 - Your PC was challenged;
 - You and the table had fun;
 - Your PC lost something great;
