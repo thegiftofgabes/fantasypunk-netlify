@@ -5,7 +5,7 @@ linktitle: challenges
 menu:
   main:
     parent: rules
-# next: /posts/challenge-resolution
+next: /posts/burdens-system
 prev: /posts/challenges
 title: challenges
 weight: 05
