@@ -13,7 +13,7 @@ weight: 06
 
 # burdens - outline
 
-The outline for the burdens system is:
+The outline for the burdens system is like this:
 
 ## using burdens
 
