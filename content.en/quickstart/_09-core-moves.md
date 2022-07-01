@@ -116,7 +116,7 @@ If you decide you want to avoid it, you can **Push Back**.
 
 When you want to **push back** against an undesired outcome, tell the party and the GM what part of the tale you want to change.
 
-Discuss with the others how it should happen, then **lessen a Burden**.
+Discuss with the others how it should happen, then **heighten a Burden**.
 
 # intervention moves
 

@@ -1,7 +1,7 @@
 ---
 weight: 08
 title: "burdens"
-description: "Burdens represent a certain aspect of a character's history, the lessosn they learned, the materia lpossessions they carry around, and more."
+description: "Burdens represent a certain aspect of a character's history, the lessosn they learned, the meterial possessions they carry around, and more."
 ---
 
 # burdens: the weight of your journey
@@ -14,7 +14,7 @@ When you **rely on a Burden**, describe how you use it or how it comes into play
 
 If the Burden Die is higher, increase this Burden's Weight by 1.
 
-If Weight is higher, then mark this Burden **too heavy to bear**.
+If Weight is higher, then mark this Burden as a **heavy load**.
 
 ## heighten or alleviate a burden
 
@@ -22,9 +22,23 @@ When you **heighten a Burden**, increase its Weight by 1.
 
 When you **alleviate a Burden**, decrease its Weight by 1.
 
-## crack under your burdens
+## a heavy load
 
-When you every burden you carry becomes **too heavy to bear,** you **Crack Under Your Burdens**. Make a choice.
+When a Burden becomes **a heavy load**, cross it out and you earn a Crack.
+
+Write a sentence describing how that weight wears you out, how it could crush you, or how you think it would feel like to be relieved of it for good.
+
+## take a small rest
+
+When you **take a small rest** in relative safety and comfort for a while, meditate over your Load to figure out how much more you can bear. Do any or all of the actions below.
+
+- catch your breath: reduce the Weight of every Burden by 1;
+- find comfort: patch one Crack with lead or gold, strike it out, and recover its respective Burden;
+- find safety: replenish your Personal Pool with dice from the Party Pool.
+
+## fall apart
+
+When you every Burden you carry has been replaced by a Crack, **fall apart**, 
 
 **Let go**, however uneasily. 
 
