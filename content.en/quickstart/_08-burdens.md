@@ -8,6 +8,10 @@ description: "Burdens represent a certain aspect of a character's history, the l
 
 Most of us carry our own weight, then some.
 
+Each Bearer carries a Load, a set of Burdens composed by values, belongings, bonds, knowledges, magical spells, dweomes, and more.
+
+They represent a character's journey before the start of the Tale, and the way they change represents their journey through the Tale.
+
 ## rely on a burden
 
 When you **rely on a Burden**, describe how you use it or how it comes into play, then add a Burden Die to the dice pool and compare the Weight of the chosen Burden to the result of the Burden Die. 
@@ -24,7 +28,7 @@ When you **alleviate a Burden**, decrease its Weight by 1.
 
 ## a heavy load
 
-When a Burden becomes **a heavy load**, cross it out and you earn a Crack.
+When a Burden becomes **a heavy load**, cross it out and earn a Crack.
 
 Write a sentence describing how that weight wears you out, how it could crush you, or how you think it would feel like to be relieved of it for good.
 
@@ -39,6 +43,8 @@ When you **take a small rest** in relative safety and comfort for a while, medit
 ## fall apart
 
 When you every Burden you carry has been replaced by a Crack, **fall apart**, 
+
+
 
 **Let go**, however uneasily. 
 

@@ -10,7 +10,11 @@ There are 5 Traits: **Kind**, **Brave**, **Curious**, **Cautious**, and **Insigh
 
 In broad terms, each Trait represents a form of approaching the world, as well as allowing it to change you.
 
-When making a move, often you'll be prompted to choose an Approach. Decide which Trait best applies, which keyword reflects your intention, and describe what you hope will happen.
+## trying things
+
+When you try things you must choose a Trait to represent how you express your intention. 
+
+Decide which Trait best applies, which keyword reflects your intention, and describe what you hope will happen.
 
 | Trait      | Keywords                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------- |
@@ -22,6 +26,13 @@ When making a move, often you'll be prompted to choose an Approach. Decide which
 
 # unique trait
 
-Each bearer has a Unique Trait, a simple word of phrase that sets them further apart from the other characters.
+Each Bearer has a Unique Trait, a simple word or two that describes a personality quirk or trait that further defines your character.
 
-When a Bearer is **taking a chance**, they may describe whether their own Unique Trait may influence their words or deeds.
+Roll 1d6 to pick up the trait, choose the one you like, or come up with something else. 
+
+1. Quiet;
+2. Thoughtful
+3. Calculatting;
+4. Responsible;
+5. Timid;
+6. Talkative. 

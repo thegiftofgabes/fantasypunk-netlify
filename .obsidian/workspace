@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "content.en/quickstart/_08-burdens.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "content.en/quickstart/_08-burdens.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,8 +74,15 @@
   },
   "active": "949910f5e0b64ebe",
   "lastOpenFiles": [
-    "README.md",
-    "I.md",
+    "content.en/quickstart/_08-burdens.md",
+    "content.en/quickstart/_07-traits.md",
+    "content.en/quickstart/_06-conversation.md",
+    "content.en/quickstart/_04-pillars.md",
+    "content.en/quickstart/_05-threads.md",
+    "content.en/quickstart/_03-safety-tools.md",
+    "content.en/quickstart/_01-overview.md",
+    "content.en/quickstart/_02-players.md",
+    "content.en/_index.md",
     "Untitled.md"
   ]
 }

@@ -6,7 +6,7 @@ description: "A selection of short scenarios and setting prompts to start a game
 
 # threads: scenarios and settings
 
-Settings and scenarios are the background of the tale you are all sharing.
+Settings and scenarios are the backbone of the Tale you are all sharing.
 
 As long as there is magic and wonder, and many opportunities to meet interesting people and get into and out of trouble, any world works.
 

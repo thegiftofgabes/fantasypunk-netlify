@@ -8,11 +8,11 @@ description: "A summary of some of the main rules and how their boundaries are d
 
 **fantasypunk** is played as a kind of conversation where everyone involved takes part in creating a Tale by adding something to take it into fun and interesting directions.
 
-What makes it different from any casual conversation is the unique boundaries provided by the social rules, the narrative rules, and the system rules.
+What makes it different from any casual conversation is the unique boundaries provided by the social layer, the narrative layer, and the abstract layer of this conversation.
 
-Most times, the conversation revolves around a cycle that starts with the GM describing a situation, the Andejos acting or reacting to it on behalf of their PCs, and the GM describing how the situation changed.
+Most times, the conversation revolves around a cycle that starts with the GM describing a situation, the Brincante acting or reacting to it on behalf of their Bearers, and the GM describing how the situation changed.
 
-Sometimes the PCs choose to do something bold, take a risk, raise the stakes, face opposition... or most likely just do something cool to see what happens, which usually results in asking the dice in what direction the tale should go.
+Sometimes the Bearers choose to do something bold, take a risk, raise the stakes, face opposition... or most likely just do something cool to see what happens, which usually results in asking the dice in what direction the Tale should go.
 
 ## making moves
 
@@ -22,17 +22,17 @@ Once a Move is triggered, all you have to do is follow its procedure, asking and
 
 You can also make some moves just because you want to stir the pot, or just because; whatever you feel like in the moment.
 
-Every Brincante has access to the Core Moves, which summarize most relevant ways Characters and Players influence the fiction: role playing, trying things, adding elements to the narrative, and luring others to add elements to the narrative.
+Every Brincante has access to the Core Moves, which summarize most relevant ways they and their characters influence the fiction: role playing, trying things, adding elements to the narrative, and luring others to add elements to the narrative.
 
 Additionally, all Players, including the GM, have access to Care Moves, rules that encourage and promote attention to safety for the whole Group.
 
 Follow up Moves come into play as a result of another move, while Intervention Moves allow characters to help or hinder others.
 
-> Make an Approach Move > Roll the dice > On a solid hit, resolve the Approach move > Resolve the Special Move
-
 ## rolling dice
 
-Most times when you roll the dice, pool together each die provided by your Traits, Burdens, situational modifiers, and so on, roll them all, then keep the highest two results, adding them together.
+Whe you need to roll the dice, you will roll one or more six sided dice. We'll call them d6.
+
+Most times you will pool together a number of d6 provided by your Traits, Burdens, situational modifiers, and so on, roll them all, then keep the highest two results, adding them together.
 
 - Start with 1d6 from a Trait ( ), 2d6 from a Striving Trait (+) and no dice from a Struggling Trait (-);
 - You get +1d6 from Relying on your Burdens;
@@ -73,4 +73,4 @@ Use it to **have a say**, adding or elaboriting aspects of the Tale, or to **off
 
 When any Brincante uses a die from their Personal Pool, those dice go to the Party Pool.
 
-The Party Pool is a collective pool of dice to be used when the Bearers **[[_09-core-moves#make a group effort]]**.
+The Party Pool is a collective pool of dice to be used when the Bearers **make a group effort**.
