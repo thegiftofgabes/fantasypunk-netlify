@@ -50,6 +50,6 @@ Your conversation with the laws and common customs in most places is one-way onl
 
 Coming soon.
 
-## The Scholar
+## The Elder
 
 Coming soon.
