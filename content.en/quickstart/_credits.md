@@ -41,3 +41,15 @@ Many, many thanks to these people and communities:
 **Feelings**: spite for that one Infamous Dragon Game, which I loved for many years; making a game I really wanted to play; contributing to the RPGLatAM community and the larger TTRPG community.
 
 And a lot more stuff I can't remember because I didn't take notes before.
+
+# tools and resources
+
+## fonts
+
+- headers: Quando;
+- body: Atkinson Hyperlegible
+
+## website
+
+- hosting: Codeberg + Netlify
+- website template: Platen by 

@@ -157,15 +157,23 @@ When you need a moment to react to what's happening in the game, tell the other 
 
 Inform the rest of the table of your need and engage any tools you need to accommodate them.
 
+## ask the layer above
+
+When the interpreting moves and other rules feel tricky, fall back into the narrative and let it point the way to go. If there is any doubt still, then **take a step back** into the social boundary and 
+
+When it's unclear how to interpret a rule, a move or a procedure, look to the fictional boundaries for guidance. If still in doubt, then **take a step back**, and fall back into the social bounsary. As a group, decide what to do and how to procede making sure 
+
+![[Pasted image 20220708235551.png]]
+
 ## “do we want to?”
 
 When you’re not sure everyone is on board with the chosen course of action you chose, **take a step back** and ask: **"Do we want to?"** to express that you’d like everyone to buy in.
 
-## “Where to next?”
+## “where to next?”
 
 If you feel the adventure came to a standstill or that you are stuck, **take a step back** and ask “Where to next?” to discuss what to do to move the adventure forward.
 
-## “What do you think?”
+## “what do you think?”
 
 Sometimes we need a bit of extra time to think, focus or express ourselves. If someone seems quieter or seems to be speaking less, **take a step back** and ask “What do you think?” to check how they are feeling.
 
