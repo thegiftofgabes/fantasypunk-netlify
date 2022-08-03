@@ -6,139 +6,73 @@
       {
         "id": "f357f2b16f3a0059",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content.en/quickstart/_01-overview.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
-        },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_01-overview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_credits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":30},\"to\":{\"line\":54,\"ch\":30}},\"scroll\":36.985205861828334}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":17},\"to\":{\"line\":41,\"ch\":17}},\"scroll\":105.28981937602627}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"assets/social-media-cover.png\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.theming.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
               "eState": "{}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20220708235551.png\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.shortcodes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
               "eState": "{}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20220709011302.png\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.pointcrawl.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
               "eState": "{}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20220708235551.png\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.glossary.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
               "eState": "{}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_11-backgrounds.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":35.642707606420096}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-core-moves.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":150.47592463363574}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_08-burdens.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_10-remarkable-moves.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-core-moves.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_08-burdens.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_07-traits.md\",\"mode\":\"source\",\"backlinks\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.exploration.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
               "eState": "{}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_01-overview.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.challenges.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-core-moves.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.chalenge-resolution.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_08-burdens.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.burdens-system.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
             }
           ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content.en/posts/_index.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -155,18 +89,29 @@
           {
             "id": "2eecf8555a46e589",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "2eecf8555a46e589",
+                  "group": null,
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
             "id": "25b0fb731218b0b7",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "search",
               "state": {
@@ -177,26 +122,9 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "7e72b5a7ed2fe5a6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,10 +141,14 @@
           {
             "id": "d96bd8bd5bbf33b0",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content.en/quickstart/_01-overview.md",
+                "file": "content.en/posts/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,66 +157,63 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
             "id": "863dfcb14f20e31e",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "9b6a206b7516161d",
+            "id": "695a5a7c4dae3ec4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "BC-matrix",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
-            "id": "de6e335881750e35",
+            "id": "9cbf962594df0517",
             "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "7e72b5a7ed2fe5a6",
+  "active": "f357f2b16f3a0059",
   "lastOpenFiles": [
-    "README.md",
-    "content.en/quickstart/_credits.md",
-    "content.en/_index.md",
-    "Untitled.md",
-    "assets/social-media-cover.png",
-    "Pasted image 20220708235551.png",
-    "Pasted image 20220709011302.png",
-    "content.en/quickstart/_11-backgrounds.md",
-    "content.en/quickstart/_09-core-moves.md",
-    "content.en/quickstart/_08-burdens.md"
+    "content.en/posts/blog.theming.md",
+    "content.en/posts/blog.shortcodes.md",
+    "content.en/posts/blog.pointcrawl.md",
+    "content.en/posts/blog.glossary.md",
+    "content.en/posts/blog.exploration.md",
+    "content.en/posts/blog.challenges.md",
+    "content.en/posts/blog.chalenge-resolution.md",
+    "content.en/posts/blog.burdens-system.md",
+    "content.en/quickstart/_01-overview.md",
+    "README.md"
   ]
 }
