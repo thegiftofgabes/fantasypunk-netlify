@@ -85,21 +85,21 @@ Traditionally, the GM is burdened with organising, hosting, running, and facilit
 
 It is recommended that these responsibilities be shared among the Players involved in order to both alleviate the GM and allow a richer collaborative experience.
 
-## narrative and plot
-
-Making a story cohesive and interesting. When there is a GM present, this is their cue, although a GMless or GMfull game will see this role shared among any number of Players.
-
 ## time and space
 
 Managing real world scheduling and “hosting” of game. Any of you may volunteer to take on this role. You are a kind of a host andyour job involves orgnizing when and where everyone meets to play. Tools like when2meet are your best friends.
+
+## narrative and plot
+
+Making a story cohesive and interesting. When there is a GM present, this is their cue, although a GMless or GMfull game will see this role shared among any number of Players.
 
 ## hooks and spotlight
 
 Making sure each player and character gets a good amount of time to actively engage in the plot. Again, any player may volunteer to take on this responsibility, although if there is a GM in the game, then the they will be in the best spot to take on this. 
 
+## voice of supporting characters
+Speaking for, and acting out the role of supporting characters. Even going as far ass keeping notes on what they do or say or what they are like goes a long way. There are some specific moves that nable this temporarily too.
+
 ## rules and metaplay
 
-Someone who handles the rules as the table has agreed to them, and edits game and narration around the only relevant parts and be able to introduce others to the rules.Ideally this is a Player that understands the game better than the others, or is more experienced in games like this in general, or both. 
-
-## voice of supporting characters
-Speaking for, and acting out the role of supporting characters. Even going as far ass keeping notes on what they do or say or what they are like goes a long way. There are some specific moves that nable this temporarily too. 
+Someone who handles the rules as the table has agreed to them, and edits game and narration around the only relevant parts and be able to introduce others to the rules.Ideally this is a Player that understands the game better than the others, or is more experienced in games like this in general, or both.

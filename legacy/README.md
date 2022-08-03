@@ -21,7 +21,7 @@ Use the text below to credit **fantasypunk** when you create stuff off of it.
 
 # Credits and Acknowledgements
 
-### Many, many thanks to these people and communities:
+Many, many thanks to these people and communities:
 
 David Blandy, Daisy Mae, Giovana Gomes, S. Quinn Morris, Sheeva, Mica Hind, Logan Timmins, Viditya Voleti, Brandon Leon-Gambetta.
 

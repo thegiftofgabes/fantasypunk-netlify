@@ -1,4 +1,5 @@
 /resources/_gen
 .hugo_build.lock
 /pdf/
-content.en/legacy/old
+legacy/old
+legacy/picaroons
