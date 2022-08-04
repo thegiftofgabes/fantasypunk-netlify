@@ -1,7 +1,7 @@
 ---
 weight: 11
 title: "backgrounds"
-description: "Each Bearer has a Background, an outline of their journey before teh start of the Tale."
+description: "Each Bearer has a Background, an outline of their journey before the start of the Tale."
 ---
 
 # starter backgrounds
@@ -48,7 +48,9 @@ Your conversation with the laws and common customs in most places is one-way onl
 
 ## the boundless
 
-Coming soon.
+The body is only another boundary to be pushed, shaped, transitioned into and out of.
+
+Your physical form is just a frame that allows you to change skins, as malleable as your soul. Some forms are easier or more accessible than others, but ultimately, you are who you choose to be, at all times.
 
 ## the elder
 

@@ -12,7 +12,7 @@ It's now become something else as it's grown into a very different direction fro
 
 # License
 
-You can print, share, hack, edit, iterate and do whatever the heck you want with **fantasypunk** as long as you stick to the [Anti-Capitalist Attribution Cooperative License](https://noroadhome.itch.io/acaclicense) and that you agree to punch fascists and stomp on bigotry and respect your fellow players and their needs, concerns, and traumas. 
+You can print, share, hack, edit, iterate and do whatever the heck you want with **fantasypunk** as long as you stick to the [Anti-Capitalist Attribution Cooperative License](https://noroadhome.itch.io/acaclicense) and that you agree to punch fascists and stomp on bigotry and respect your fellow players and their needs, concerns, and traumas.
 
 You are not allowed to use my words in this game to justify harming others. At any point for any reason, a player can veto elements of the narrative that are being brought in.
 
@@ -52,4 +52,4 @@ And a lot more stuff I can't remember because I didn't take notes before.
 ## website
 
 - hosting: Codeberg + Netlify
-- website template: Platen by 
+- website template: Platen by

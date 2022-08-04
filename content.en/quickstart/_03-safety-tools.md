@@ -4,11 +4,11 @@ title: "safety tools"
 description: "A set of procedures to help all Players respect and uphold boundaries of respect and care."
 ---
 
-# playing safe games
+# playing safer games
 
 When you play **fantasypunk**, or any other game, remember to be kind to yourself and to the other players. Use these tools or any others you like to ensure a safer game for everyone.
 
-Provided below is a small guide of safety tools that you can use in your games. 
+Provided below is a small guide of safety tools that you can use in your games.
 
 It’s important that any gaming group discusses what safety tools everyone feels most comfortable with and how to apply them to the game.
 

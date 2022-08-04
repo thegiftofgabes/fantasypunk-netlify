@@ -10,7 +10,7 @@ There are two distinct roles to be distributed among the Players in **fantasypun
 
 Usually a single Player takes the role of GM, while the others take the roles of Brincantes.
 
-In summary, the GM is tasked with creating and fleshing out the world and the setting the other characters inhabit, often creating and controlling Supporting Characters. 
+In summary, the GM is tasked with creating and fleshing out the world and the setting the other characters inhabit, often creating and controlling Supporting Characters.
 
 Meanwhile, the Brincantes are in charge of a single character each, a Bearer, and are expected to roleplay them and make decisions about them.
 
@@ -47,9 +47,10 @@ These principles will help you be in the same page with everyone.
 
 As the Giramundo, or GM, you are a kind counterpoint to the other Players.
 
-Mostly you are expected to provide dramatic situations for the Brincantes, as well as create and run new characters and plot elements, giving them cues to make the Tale more interesting. 
+Mostly you are expected to provide dramatic situations for the Brincantes, as well as create and run new characters and plot elements, giving them cues to make the Tale more interesting.
 
 ### overview
+
 In short, as a GM, you are expected to introduce a new scene or situation, ask the other Players *"what do you do?"*, and improve the scene or situation according to what the Players do, what their Characters do and what the Dice prompts.
 
 ### agenda
@@ -95,9 +96,10 @@ Making a story cohesive and interesting. When there is a GM present, this is the
 
 ## hooks and spotlight
 
-Making sure each player and character gets a good amount of time to actively engage in the plot. Again, any player may volunteer to take on this responsibility, although if there is a GM in the game, then the they will be in the best spot to take on this. 
+Making sure each player and character gets a good amount of time to actively engage in the plot. Again, any player may volunteer to take on this responsibility, although if there is a GM in the game, then the they will be in the best spot to take on this.
 
 ## voice of supporting characters
+
 Speaking for, and acting out the role of supporting characters. Even going as far ass keeping notes on what they do or say or what they are like goes a long way. There are some specific moves that nable this temporarily too.
 
 ## rules and metaplay

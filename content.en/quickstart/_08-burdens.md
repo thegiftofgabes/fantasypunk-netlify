@@ -14,7 +14,7 @@ They represent a character's journey before the start of the Tale, and the way t
 
 ## rely on a burden
 
-When you **rely on a Burden**, describe how you use it or how it comes into play, then add a Burden Die to the dice pool and compare the Weight of the chosen Burden to the result of the Burden Die. 
+When you **rely on a Burden**, describe how you use it or how it comes into play, then add a Burden Die to the dice pool and compare the Weight of the chosen Burden to the result of the Burden Die.
 
 If the Burden Die is higher, increase this Burden's Weight by 1.
 
@@ -42,11 +42,9 @@ When you **take a small rest** in relative safety and comfort for a while, medit
 
 ## fall apart
 
-When you every Burden you carry has been replaced by a Crack, **fall apart**, 
+When you every Burden you carry has been replaced by a Crack, **fall apart**,
 
-
-
-**Let go**, however uneasily. 
+**Let go**, however uneasily.
 
 Erase one of your burdens and describe how it was lost, broken, given away, how it is inaccessible, or something else. You are closer to **finding release.**
 

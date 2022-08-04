@@ -56,9 +56,9 @@ On a miss, you are good and cornered. **Brace yourself**.
 
 ## "i know a guy!"
 
-When you take a **curious** approach to contact, request, or engage your connections, you may name an old contact who could help you if you sought them out. 
+When you take a **curious** approach to contact, request, or engage your connections, you may name an old contact who could help you if you sought them out.
 
-On any hit they can help you with information, access, or some other form of indirect help. 
+On any hit they can help you with information, access, or some other form of indirect help.
 
 On a solid hit, pick 1. On a messy hit, pick 2 instead of the usual Shortcomings:
 
@@ -67,7 +67,7 @@ On a solid hit, pick 1. On a messy hit, pick 2 instead of the usual Shortcomings
 - They’re not quite cut out for this.
 - You can’t exactly trust them.
 
-On a miss, **brace yourself**. 
+On a miss, **brace yourself**.
 
 ## scrutinize
 
@@ -104,7 +104,7 @@ When you take an **insightful** appproach to guide, channel, or yield control of
 On any hit, pick 1.
 
 - **appease**: request that the elements be abated, at least for the time being;
-- **plead**: request material aid from nature, such as a change in the wind, 
+- **plead**: request material aid from nature, such as a change in the wind,
 - **abridge**: request an answer from beyond your knowing in the form of a feeling or a sign.
 
 The Old Powers will grant your request, but you any Shortcoming will also come from them.

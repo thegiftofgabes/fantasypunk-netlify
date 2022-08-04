@@ -15,7 +15,7 @@ weight: 05
 
 ## Method 1: Resist Blows
 
-When a character strikes a Blow against a Resistance, the GM will create a dice pool. 
+When a character strikes a Blow against a Resistance, the GM will create a dice pool.
 
 Lesser Blow: 1d6
 
@@ -131,7 +131,6 @@ Don't ignore any dice.
 If there is a result is higher than the damage the Resistance Points, that resistance is defeated. If not, it loses 1 point.
 If there is a result higher than the Resistance Points, that resistance is defeated. If not, it loses 1 point.
 
-
 If there is a result is 1, that character loses 1 Hold.
 If there is a 1, that character loses 1 Hold.
 
@@ -140,7 +139,6 @@ Using an opening adds 1 die and drops the lowest die. Being vulnerable adds 1 di
 Variation: double 1s and double 6s.
 
 If the result is a double 6, Overcome that resistance and deal 1 damage to a different resistance.
-
 
 Using an opening adds 1 die and drops the lowest die. Being vulnerable adds 1 die and drops the highest die.
 
@@ -164,7 +162,7 @@ Example:
 ## Suggestion from Deodatus
 
 So you roll the pooled ‘hit’ dice and sum the highest 2 dice:
-** 12: Angle totally destroyed. The situation changes.*
+**12: Angle totally destroyed. The situation changes.*
 ** ‌10-11: Angle is not destroyed but beaten, won’t be active unless the boss can withdraw and ‘heal’ it. The situatuon changes.*
-** ‌7-9 Angle fights back with some soft counter move*
+**‌7-9 Angle fights back with some soft counter move*
 ** ‌1-6 Angle retributes with some hard counter move*

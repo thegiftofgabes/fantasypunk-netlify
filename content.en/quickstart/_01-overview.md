@@ -20,7 +20,7 @@ You play by having a conversation that exists within 3 sets of boundaries: the *
 2. Agree on how Safety Tools will be employed;
 3. Take turns reading the Pillars of Play;
 4. Choose an existing scenario or setting, create your own together, or roll 1d6 on the table below:
- 
+
  | 1d6 | Thread                  |
  | --- | ----------------------- |
  | 1   | Sol                     |

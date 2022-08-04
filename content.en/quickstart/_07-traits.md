@@ -12,7 +12,7 @@ In broad terms, each Trait represents a form of approaching the world, as well a
 
 ## trying things
 
-When you try things you must choose a Trait to represent how you express your intention. 
+When you try things you must choose a Trait to represent how you express your intention.
 
 Decide which Trait best applies, which keyword reflects your intention, and describe what you hope will happen.
 
@@ -28,11 +28,11 @@ Decide which Trait best applies, which keyword reflects your intention, and desc
 
 Each Bearer has a Unique Trait, a simple word or two that describes a personality quirk or trait that further defines your character.
 
-Roll 1d6 to pick up the trait, choose the one you like, or come up with something else. 
+Roll 1d6 to pick up the trait, choose the one you like, or come up with something else.
 
 1. Quiet;
 2. Thoughtful
 3. Calculatting;
 4. Responsible;
 5. Timid;
-6. Talkative. 
+6. Talkative.

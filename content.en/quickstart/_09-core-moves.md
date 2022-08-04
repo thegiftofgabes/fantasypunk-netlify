@@ -34,6 +34,7 @@ If two statements are true, you can **take a chance** with +1d6. If only one sta
 If no statements are true, you should consider whether you can try this at all.
 
 ## take a chance
+
 > Do this to try somethiung tricky, risky or uncertain, and determine the outcome of your move.
 
 When you **take a chance**, choose an Approach and describe what you hope will happen.
@@ -44,6 +45,7 @@ When you **take a chance**, choose an Approach and describe what you hope will h
 - **miss**: you must **brace yourself**.
 
 ## have a say
+
 > Do this to directly influence the narrative as a player rather than through roleplaying your character.
 
 When you want to **have a say** on the Tale to create a new aspect, or elaborate on an existing one, make a Proposal.
@@ -75,7 +77,7 @@ When you **seek answers** about an aspect of the Tale, ask one of the questions 
 - what should --- do (about ---)?
 - what opportunity have we completely missed here?
 
-Offer a Personal Die to any player who answer the question you chose. 
+Offer a Personal Die to any player who answer the question you chose.
 
 When another Player answer your question, give them the die you offered and prompt them to clarify their answer as needed.
 
@@ -159,9 +161,9 @@ Inform the rest of the table of your need and engage any tools you need to accom
 
 ## ask the layer above
 
-When the interpreting moves and other rules feel tricky, fall back into the narrative and let it point the way to go. If there is any doubt still, then **take a step back** into the social boundary and 
+When the interpreting moves and other rules feel tricky, fall back into the narrative and let it point the way to go. If there is any doubt still, then **take a step back** into the social boundary and
 
-When it's unclear how to interpret a rule, a move or a procedure, look to the fictional boundaries for guidance. If still in doubt, then **take a step back**, and fall back into the social bounsary. As a group, decide what to do and how to procede making sure 
+When it's unclear how to interpret a rule, a move or a procedure, look to the fictional boundaries for guidance. If still in doubt, then **take a step back**, and fall back into the social boundary. As a group, decide what to do and how to proceed making sure
 
 ![[Pasted image 20220708235551.png]]
 

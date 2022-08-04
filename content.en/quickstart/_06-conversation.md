@@ -65,7 +65,7 @@ Compare it with the Weight of the Burden you just relied on. If you rolled under
 
 ## personal pool
 
-When you start the session, take 1d6 for every Player present, including yourself. That is your Personal Pool. 
+When you start the session, take 1d6 for every Player present, including yourself. That is your Personal Pool.
 
 Use it to **have a say**, adding or elaboriting aspects of the Tale, or to **offer help** when another Bearer **takes a chance**.
 

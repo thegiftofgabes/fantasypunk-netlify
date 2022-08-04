@@ -8,7 +8,7 @@ description: "Guidance and procedures for the Player in the role of Giramundo (G
 
 As the Giramundo, or GM, you are a kind of host, facilitator, and counterpoint to the other Players.
 
-Your main job is to help provoke dramatic situations for the PCs and be able to introduce others to the rules. 
+Your main job is to help provoke dramatic situations for the PCs and be able to introduce others to the rules.
 
 It’s okay to learn as you go, too. The core of the game is mostly in the Common and Remarkable Moves.
 
