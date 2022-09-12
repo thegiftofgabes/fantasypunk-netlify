@@ -12,66 +12,132 @@
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-burdens.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.theming.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2022-09-12 01.53.13.excalidraw.md\"}}",
               "eState": "{}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.shortcodes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-burdens.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":32.815422191207254}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2022-09-12 01.53.13.excalidraw.md\"}}",
               "eState": "{}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.pointcrawl.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-burdens.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":12.725750174459176}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2022-09-12 01.53.13.excalidraw.md\"}}",
               "eState": "{}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.glossary.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-burdens.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":20},\"to\":{\"line\":34,\"ch\":20}},\"scroll\":22.069281872825055}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.exploration.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_08-core-moves.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":91.2592463363573}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.challenges.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-burdens.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.488718306582926}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.chalenge-resolution.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_08-core-moves.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":110,\"ch\":113},\"to\":{\"line\":110,\"ch\":3}},\"scroll\":124.00347021399654}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/posts/blog.burdens-system.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_07-traits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_08-core-moves.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":14},\"to\":{\"line\":5,\"ch\":14}}}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-burdens.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_07-traits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-burdens.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_07-traits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"scroll\":6.8007518796992485}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_06-conversation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"scroll\":55.013258897418005}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_07-traits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_06-conversation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_05-threads.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content.en/posts/_index.md",
+            "file": "content.en/quickstart/_09-burdens.md",
             "mode": "source",
             "backlinks": false,
-            "source": true
+            "source": false
           }
         }
       }
@@ -148,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content.en/posts/_index.md",
+                "file": "content.en/quickstart/_09-burdens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,15 +271,15 @@
   },
   "active": "f357f2b16f3a0059",
   "lastOpenFiles": [
-    "content.en/posts/blog.theming.md",
-    "content.en/posts/blog.shortcodes.md",
-    "content.en/posts/blog.pointcrawl.md",
-    "content.en/posts/blog.glossary.md",
-    "content.en/posts/blog.exploration.md",
-    "content.en/posts/blog.challenges.md",
-    "content.en/posts/blog.chalenge-resolution.md",
-    "content.en/posts/blog.burdens-system.md",
-    "content.en/quickstart/_01-overview.md",
-    "README.md"
+    "Excalidraw/Drawing 2022-09-12 01.53.13.excalidraw.md",
+    "content.en/quickstart/_09-burdens.md",
+    "content.en/_index.md",
+    "content.en/quickstart/_08-core-moves.md",
+    "content.en/quickstart/_06-conversation.md",
+    "content.en/quickstart/_07-traits.md",
+    "content.en/quickstart/_05-threads.md",
+    "drafts/short rules.md",
+    "content.en/quickstart/_02-players.md",
+    "content.en/quickstart/_12-bearers.md"
   ]
 }
