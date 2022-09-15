@@ -1,19 +1,13 @@
 [
   "table-editor-obsidian",
-  "obsidian-admonition",
   "alx-folder-note",
-  "obsidian-banners",
-  "breadcrumbs",
   "obsidian-excalidraw-plugin",
   "obsidian-excel-to-markdown-table",
   "folder-note-core",
-  "obsidian-icon-folder",
-  "obsidian-image-toolkit",
-  "media-extended",
-  "obsidian-leaflet-plugin",
-  "obsidian-tabs",
   "pane-relief",
   "obsidian-text-format",
   "obsidian-git",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "obsidian-quiet-outline",
+  "obsidian-auto-split"
 ]

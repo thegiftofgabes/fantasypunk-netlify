@@ -65,4 +65,4 @@ When every Burden you carry is gone and you **find release**, choose a Change:
 
 - retire this character, describe how;
 - make way to the new: an aprentice becomes a new Party member. Create a new Bearer and make sure at least one of your burdens is a hand me down, or otherwise related to the previous character;
-- transformation: choose a new Background for you character an make sure one of their new Burdens is related to their past self.
+- transformation: choose a new Background for you character an make sure at least one of their new Burdens is related to their past self.

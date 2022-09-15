@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "attachmentFolderPath": "assets"
 }

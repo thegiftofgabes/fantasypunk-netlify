@@ -50,8 +50,8 @@ Result | Outcome      | Meaning
 -------|--------------|---------------
 12     | Critical hit | Yes, and
 10-11  | Solid hit    | Yes
-7-9    | Messy hit    | Yes, but
-1-6    | Miss         | Brace Yourself
+6-9    | Messy hit    | Yes, but
+1-5    | Miss         | Brace Yourself
 
 Not all moves have a specific effect for a Critical Hit. In those cases, interpret it as a Solid Hit.
 
@@ -74,3 +74,4 @@ Use it to **have a say**, adding or elaboriting aspects of the Tale, or to **off
 When any Brincante uses a die from their Personal Pool, those dice go to the Party Pool.
 
 The Party Pool is a collective pool of dice to be used when the Bearers **make a group effort**.
+
